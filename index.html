@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PI220OS</title>
+
+<link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+
+<!-- ================= BIOS SCREEN ================= -->
+<div id="biosScreen"></div>
+
+<!-- ================= TOP BAR ================= -->
+<div id="topbar">
+
+  <div id="logoBtn">
+    <div id="alienIcon"></div>
+    <div id="systemLabel">PI220 OS</div>
+  </div>
+
+  <div id="sysClock">
+    <span id="sysTime"></span>
+    <span id="sysDate"></span>
+  </div>
+
+</div>
+
+<!-- ================= FLOATING MENU ================= -->
+<div id="menuDrop">
+
+  <div class="menuSection">Authentication</div>
+  <div class="menuItem menuSub">Log-in</div>
+  <div class="menuItem menuSub">Sign-up</div>
+
+  <div class="menuSection">Navigation</div>
+  <div class="menuItem">Home</div>
+  <div class="menuItem">Projects</div>
+  <div class="menuItem">Contact</div>
+  <div class="menuItem">About</div>
+
+  <div class="menuSection">System</div>
+  <div class="menuItem menuSub">PCTM 10000-X</div>
+  <div class="menuItem menuSub">PCTM 5000</div>
+  <div class="menuItem menuSub">PCTM 500</div>
+  <div class="menuItem menuSub">PCEEP</div>
+
+  <div class="menuSection">Game</div>
+  <div class="menuItem menuSub">Turn On/Off</div>
+  <div class="menuItem menuSub">Leaderboard</div>
+
+  <div class="menuSection">Module Games</div>
+  <div class="menuItem menuSub">Coming Soon</div>
+
+  <div class="menuSection">App</div>
+  <div class="menuItem menuSub">Alien ID Private Event</div>
+
+  <div class="menuSection">Alien Syntax</div>
+  <div class="menuItem menuSub">Symbolic Core</div>
+  <div class="menuItem menuSub">Neural Interface</div>
+  <div class="menuItem menuSub">Transformation</div>
+  <div class="menuItem menuSub">Mutation</div>
+  <div class="menuItem menuSub">Resolver</div>
+
+  <div class="menuSection">Security</div>
+  <div class="menuItem menuSub">Install Packages</div>
+
+  <div class="menuSection">Experimental</div>
+  <div class="menuItem menuSub">XO Series</div>
+  <div class="menuItem menuSub">Simulator</div>
+
+</div>
+
+<!-- ================= MAIN DESKTOP ================= -->
+<div id="desktop">
+
+  <div id="topPanel"></div>
+  <div id="bottomPanel"></div>
+
+</div>
+
+<!-- ================= CONSOLE INPUT ================= -->
+<div id="consoleBar">
+  <input id="consoleInput" placeholder="/help">
+</div>
+
+<!-- ================= MODULE SYSTEM CORE (NEW - REQUIRED) ================= -->
+<script src="./core/module.js"></script>
+
+<!-- ================= BOOT SYSTEM ================= -->
+<script type="module" src="./core/bootstrap.js"></script>
+
+</body>
+</html>
