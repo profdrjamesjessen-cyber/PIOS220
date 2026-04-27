@@ -8,10 +8,8 @@ export const projects = [ ... ];
 
 {name:"ALIEN SYNTAX MATRIX",serial:"PI220-391-ALN-2026",architecture:"Symbolic intelligence advanced processing architecture framework.",principles:"Recursive grammar-based parallel quantum computation.",subsystems:"Parser Engine, Semantic Core, Logic Resolver",flow:"Symbolic architecture → Transformation and mutation → resolved status",io:"INPUT: Raw data | OUTPUT: intelligence synthesis",integration:"Linked directly to CORE",value:"Advanced cognitive layer"},
 
-{name:"391 PARALLEL SERVERS",serial:"PI220-391-SRV-2026",architecture:"Distributed planetary-scale compute infrastructure.",principles:"Parallel execution, redundancy, scalability.",subsystems:"Node clusters, Load balancing system, Sync protocol",flow:"Task distribution → parallel processing → result aggregation",io:"INPUT: computational workloads | OUTPUT: processed results",integration:"System backbone infrastructure",value:"Compute backbone"},
-
-  {
-    name: "NEO TURBINE 1.0",
+{name:"391 PARALLEL SERVERS",serial:"PI220-391-SRV-2026",architecture:"Distributed planetary-scale compute infrastructure.",principles:"Parallel execution, redundancy, scalability.",subsystems:"Node clusters, Load balancing system, Sync protocol",flow:"Task distribution → parallel processing → result aggregation",io:"INPUT: computational workloads | OUTPUT: processed results",integration:"System backbone infrastructure",value:"Compute backbone"}, {
+{name: "NEO TURBINE 1.0",
     serial: "PI220-NEO-1.0-2026",
     architecture: "Single-layer thermal energy recovery propulsion module integrated into aerospace systems.",
     principles: "Waste heat conversion, thermal efficiency extraction, baseline propulsion augmentation.",
@@ -19,11 +17,9 @@ export const projects = [ ... ];
     flow: "Waste heat → thermal capture → electrical conversion → auxiliary thrust output",
     io: "INPUT: Exhaust heat energy | OUTPUT: Electrical power + low-level thrust",
     integration: "Linked as foundational propulsion module within PI220 energy systems",
-    value: "Baseline energy recovery propulsion architecture"
-  },
+    value: "Baseline energy recovery propulsion architecture"},
 
-  {
-    name: "NEO TURBINE FULL SYSTEM",
+{name: "NEO TURBINE FULL SYSTEM",
     serial: "PI220-NEO-FULL-2026",
     architecture: "Tri-layer hybrid propulsion and energy ecosystem integrating thermal, aerodynamic, and hydraulic systems.",
     principles: "Multi-domain energy fusion, recursive energy recycling, structural stabilization through fluid dynamics.",
@@ -31,8 +27,7 @@ export const projects = [ ... ];
     flow: "Thermal energy → electrical conversion → airflow vector thrust → hydraulic stabilization feedback loop",
     io: "INPUT: Thermal + kinetic + aerodynamic energy | OUTPUT: Propulsion thrust + electrical energy + structural stabilization",
     integration: "Fully embedded flagship propulsion architecture within PI220 aerospace systems",
-    value: "Advanced multi-energy propulsion ecosystem and flagship system"
-  }
+    value: "Advanced multi-energy propulsion ecosystem and flagship system"}
 
 {name: "PCTM-10000-X",serial: "PI220-391-PCTM10000X-2026",architecture: "Experimental photonic–hydrogen confinement reactor with hybrid spectral conversion layers.",principles: "Photon recycling, multi-layer energy conversion, thermal-electrical coupling, hydrogen-plasma interaction.",subsystems: "Photonic Confinement Chamber, HMT Spectral Stack, Hydrogen Injection Module, TPV Conversion Layer, Graphene Transport Grid, Diamond Thermal Layer",flow: "Photon input → confinement → spectral conversion → thermal generation → TPV/PV conversion → electrical output",io: "INPUT: confined radiation + hydrogen energy | OUTPUT: high-density electrical + thermal energy",integration: "Linked to PCTM-5000, PCEEP, X2M Engine, PI220 Experimental Systems",value: "Research-grade energy system targeting maximum energy utilization through hybrid photonic and thermal conversion"},
 
