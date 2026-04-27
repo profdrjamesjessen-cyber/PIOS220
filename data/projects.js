@@ -10,6 +10,30 @@ export const projects = [ ... ];
 
 {name:"391 PARALLEL SERVERS",serial:"PI220-391-SRV-2026",architecture:"Distributed planetary-scale compute infrastructure.",principles:"Parallel execution, redundancy, scalability.",subsystems:"Node clusters, Load balancing system, Sync protocol",flow:"Task distribution → parallel processing → result aggregation",io:"INPUT: computational workloads | OUTPUT: processed results",integration:"System backbone infrastructure",value:"Compute backbone"},
 
+  {
+    name: "NEO TURBINE 1.0",
+    serial: "PI220-NEO-1.0-2026",
+    architecture: "Single-layer thermal energy recovery propulsion module integrated into aerospace systems.",
+    principles: "Waste heat conversion, thermal efficiency extraction, baseline propulsion augmentation.",
+    subsystems: "Thermal Capture Core, Energy Conversion Unit, Basic Thrust Channel",
+    flow: "Waste heat → thermal capture → electrical conversion → auxiliary thrust output",
+    io: "INPUT: Exhaust heat energy | OUTPUT: Electrical power + low-level thrust",
+    integration: "Linked as foundational propulsion module within PI220 energy systems",
+    value: "Baseline energy recovery propulsion architecture"
+  },
+
+  {
+    name: "NEO TURBINE FULL SYSTEM",
+    serial: "PI220-NEO-FULL-2026",
+    architecture: "Tri-layer hybrid propulsion and energy ecosystem integrating thermal, aerodynamic, and hydraulic systems.",
+    principles: "Multi-domain energy fusion, recursive energy recycling, structural stabilization through fluid dynamics.",
+    subsystems: "Thermal Recovery Core, Air Compression Vector Layer, Hydraulic Stabilization Ring",
+    flow: "Thermal energy → electrical conversion → airflow vector thrust → hydraulic stabilization feedback loop",
+    io: "INPUT: Thermal + kinetic + aerodynamic energy | OUTPUT: Propulsion thrust + electrical energy + structural stabilization",
+    integration: "Fully embedded flagship propulsion architecture within PI220 aerospace systems",
+    value: "Advanced multi-energy propulsion ecosystem and flagship system"
+  }
+
 {name: "PCTM-10000-X",serial: "PI220-391-PCTM10000X-2026",architecture: "Experimental photonic–hydrogen confinement reactor with hybrid spectral conversion layers.",principles: "Photon recycling, multi-layer energy conversion, thermal-electrical coupling, hydrogen-plasma interaction.",subsystems: "Photonic Confinement Chamber, HMT Spectral Stack, Hydrogen Injection Module, TPV Conversion Layer, Graphene Transport Grid, Diamond Thermal Layer",flow: "Photon input → confinement → spectral conversion → thermal generation → TPV/PV conversion → electrical output",io: "INPUT: confined radiation + hydrogen energy | OUTPUT: high-density electrical + thermal energy",integration: "Linked to PCTM-5000, PCEEP, X2M Engine, PI220 Experimental Systems",value: "Research-grade energy system targeting maximum energy utilization through hybrid photonic and thermal conversion"},
 
   {name: "PCTM-5000",serial: "PI220-391-PCTM5000-2026",architecture: "Closed-loop,photonic–chemical–thermodynamic energy megastructure.",principles: "Full-spectrum light capture, hydrogen energy cycling, thermal recirculation, photonic confinement.",subsystems: "Light Spectrum Field Generator, Hydrogen Energy Loop, Photonic Chamber, Thermal Recycling Core, X2M Integration Node",flow: "Solar/IR input → photonic confinement → hydrogen amplification → thermal recycling → electrical output",io: "INPUT: solar radiation + hydrogen + ambient IR | OUTPUT: electrical + thermal + kinetic energy",integration: "Linked to PCEEP, X2M Engine, PI220 Energy Grid",value: "Primary energy backbone system enabling continuous high-efficiency generation"},
@@ -38,4 +62,7 @@ export const projects = [ ... ];
 
 {name:"PHOTONIC ENGINE SYSTEM",serial:"PI220-391-PHEN-2026",architecture:"High-density photonic energy manipulation and conversion engine.",principles:"Light-field compression, photon amplification, energy structuring.",subsystems:"Photon core chamber, wave guide matrix, energy condenser, output regulator",flow:"Photon input → compression → amplification → output",io:"INPUT: photonic streams | OUTPUT: structured energy fields",integration:"Linked to PCTM-500 and PCEEP",value:"Next-gen energy engine"}
 
+
+
+ 
 ];
