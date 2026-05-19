@@ -9,6 +9,8 @@ const PI220_CAROUSEL = {
   _mounted: false, // 🔥 FIX: prevents multiple loops
 
   images: [
+
+    "https://i.ibb.co/rPFzkXt/PARALLEL-INDUSTRIES-220-POLITICAL-MANIFESTO-PROF-DR-JESSE-JESSEN.jpg",
     "https://i.ibb.co/BHmz7M7y/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-BOEING-220-G-SERIES.jpg",
     "https://i.ibb.co/DfXCNfZz/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-STARFRAME-BOEING-220-G.jpg",
     "https://i.ibb.co/8gjbzJQL/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-2008-2026.jpg",
