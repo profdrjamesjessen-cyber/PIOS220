@@ -10,6 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
+     
     "https://i.ibb.co/Kxp7wzCs/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-VELOX-X-1-PRO.png",
     "https://i.ibb.co/dsYv3KRz/PARALLEL-INDUSTRIES-220-PROD-DR-JESSE-JESSEN-X-22-TRANSIT.png",
     "https://i.ibb.co/wF8hM67G/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-GLOBAL-IMPACT.jpg",
