@@ -6,6 +6,7 @@
 const projects = [
 
 
+   
 {name:"ALIEN SYNTAX MATRIX",serial:"PI220-391-ALN-2026",architecture:"Symbolic intelligence advanced processing architecture framework.",principles:"Recursive grammar-based parallel quantum computation.",subsystems:"Parser Engine, Semantic Core, Logic Resolver",flow:"Symbolic architecture → Transformation and mutation → resolved status",io:"INPUT: Raw data | OUTPUT: intelligence synthesis",integration:"Linked directly to CORE",value:"Advanced cognitive layer"},
 
 {name:"PARALLEL INDUSTRIES 220 CORE",serial:"PI220-391-CORE-2026",architecture:"Unified orchestration architecture controlling all systems and subsystems.",principles:"System recursion, synchronization, autonomous governance.",subsystems:"Core Kernel, Decision Engine, Sync Layer, Monitoring Grid",flow:"Global input → orchestration → execution",io:"INPUT: all system signals | OUTPUT: unified control logic",integration:"Root controller of all PI220 architecture",value:"Civilization-level operating core"},  
