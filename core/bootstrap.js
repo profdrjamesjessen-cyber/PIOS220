@@ -24,16 +24,16 @@ async function runBootSequence(){
   logSystem("391 SERVERS NODE : ACTIVE | STATUS = ONLINE");
   await wait(800);
 
-  logSystem("ALIEN SYNTAX : MATRIX INSTALLED | STATUS : ACTIVE");
+  logSystem("ALIEN SYNTAX : MATRIX INSTALLED | STATUS = ACTIVE");
   await wait(600);
 
   logSystem("SYSTEM SCAN COMPLETED | SYSTEM SECURE");
   await wait(900);
 
-  logSystem("SUBSIDIARY NODE TEST: ONLINE");
+  logSystem("SUBSIDIARY NODE TEST : ONLINE");
   await wait(500);
 
-  logSystem("DOWNLOADING DEPENDENCIES AND PACKAGES | STATUS : INSTALLED");
+  logSystem("DOWNLOADING DEPENDENCIES AND PACKAGES | STATUS = INSTALLED");
   await wait(2400);
 
   logSystem("LOADING KERNEL...", "system");
