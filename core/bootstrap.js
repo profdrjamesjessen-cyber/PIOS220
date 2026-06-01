@@ -60,61 +60,51 @@ async function verifyAuthor(){
 ======================================
 `);
 
-     
-// =============================
-// BOOT VERIFICATION DISPLAY
-// =============================
-logSystem(`<span style="color:#00FFFF;">======================================</span>`);
-await wait(250);
+    // =============================
+    // BOOT VERIFICATION DISPLAY
+    // =============================
+    logSystem("======================================");
+    await wait(250);
 
-logSystem(`<span style="color:#00FFFF;">PI220 AUTHOR VERIFICATION</span>`);
-await wait(300);
+    logSystem("PI220 AUTHOR VERIFICATION");
+    await wait(300);
 
-logSystem(`<span style="color:#00FFFF;">======================================</span>`);
-await wait(250);
+    logSystem("======================================");
+    await wait(250);
 
-logSystem(
-  `<span style="color:#FFD700;">AUTHOR :</span> ` +
-  `<span style="color:#FFFFFF;">${AUTHOR.name}</span>`
-);
-await wait(300);
+    logSystem(`AUTHOR : ${AUTHOR.name}`);
+    await wait(300);
 
-logSystem(
-  `<span style="color:#FFD700;">ORGANIZATION :</span> ` +
-  `<span style="color:#FFFFFF;">${AUTHOR.organization}</span>`
-);
-await wait(300);
+    logSystem(`ORGANIZATION : ${AUTHOR.organization}`);
+    await wait(300);
 
-logSystem(
-  `<span style="color:#FFD700;">YEAR :</span> ` +
-  `<span style="color:#FFFFFF;">${AUTHOR.year}</span>`
-);
-await wait(300);
+    logSystem(`YEAR : ${AUTHOR.year}`);
+    await wait(300);
 
-logSystem(
-  `<span style="color:#FFD700;">DATE :</span> ` +
-  `<span style="color:#FFFFFF;">${today}</span>`
-);
-await wait(300);
+    logSystem(`DATE : ${today}`);
+    await wait(300);
 
-logSystem(
-  `<span style="color:#00FF66;">STATUS : VERIFIED</span>`
-);
-await wait(300);
+    logSystem("STATUS : VERIFIED");
+    await wait(300);
 
-logSystem(
-  `<span style="color:#00FF66;">HASH VERIFIED</span>`
-);
-await wait(300);
+    logSystem("HASH VERIFIED");
+    await wait(300);
 
-logSystem(
-  `<span style="color:#FF66FF;">HASH :</span> ` +
-  `<span style="color:#FFFFFF;">${dailyHash.substring(0, 32)}...</span>`
-);
-await wait(400);
+    logSystem(`HASH : ${dailyHash.substring(0, 32)}...`);
+    await wait(400);
 
-logSystem(`<span style="color:#00FFFF;">======================================</span>`);
-await wait(500);
+    logSystem("======================================");
+    await wait(500);
+
+    window.PI220_AUTHOR = AUTHOR;
+    window.PI220_DAILY_HASH = dailyHash;
+
+  } catch(error) {
+
+    console.error("[PI220] Author verification failed", error);
+
+    logSystem("AUTHOR VERIFICATION FAILED");
+
   }
 }
 // =============================
@@ -242,3 +232,5 @@ window.addEventListener("DOMContentLoaded", async () => {
   console.log("[PI220] System online");
 
 });
+ 
+  
