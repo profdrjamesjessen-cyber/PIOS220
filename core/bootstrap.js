@@ -61,7 +61,7 @@ async function verifyAuthor(){
 `);
 
     logSystem(`AUTHOR SIGNATURE VERIFIED : ${AUTHOR.name}`);
-    logSystem(`PI220 DAILY HASH : ${dailyHash.substring(0, 32)}...`);
+    logSystem(`PI220 HASH : ${dailyHash.substring(0, 32)}...`);
 
     window.PI220_AUTHOR = AUTHOR;
     window.PI220_DAILY_HASH = dailyHash;
