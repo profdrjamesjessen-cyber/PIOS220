@@ -60,8 +60,41 @@ async function verifyAuthor(){
 ======================================
 `);
 
-    logSystem(`AUTHOR SIGNATURE VERIFIED : ${AUTHOR.name}`);
-    logSystem(`PI220 HASH : ${dailyHash.substring(0, 32)}...`);
+    // =============================
+    // BOOT VERIFICATION DISPLAY
+    // =============================
+    logSystem("======================================");
+    await wait(250);
+
+    logSystem("PI220 AUTHOR VERIFICATION");
+    await wait(300);
+
+    logSystem("======================================");
+    await wait(250);
+
+    logSystem(`AUTHOR : ${AUTHOR.name}`);
+    await wait(300);
+
+    logSystem(`ORGANIZATION : ${AUTHOR.organization}`);
+    await wait(300);
+
+    logSystem(`YEAR : ${AUTHOR.year}`);
+    await wait(300);
+
+    logSystem(`DATE : ${today}`);
+    await wait(300);
+
+    logSystem("STATUS : VERIFIED");
+    await wait(300);
+
+    logSystem("HASH VERIFIED");
+    await wait(300);
+
+    logSystem(`HASH : ${dailyHash.substring(0, 32)}...`);
+    await wait(400);
+
+    logSystem("======================================");
+    await wait(500);
 
     window.PI220_AUTHOR = AUTHOR;
     window.PI220_DAILY_HASH = dailyHash;
@@ -74,7 +107,6 @@ async function verifyAuthor(){
 
   }
 }
-
 // =============================
 async function runBootSequence(){
 
