@@ -749,34 +749,3 @@ opacity: 0.6;
 font-size: 10px;
 }
 
-/* ======================================
-   PI220 AUTHOR VERIFICATION
-====================================== */
-
-.pi220-author {
-  color: #00FFFF;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.pi220-author-label {
-  color: #FFD700;
-}
-
-.pi220-author-value {
-  color: #FFFFFF;
-}
-
-.pi220-author-status {
-  color: #00FF66;
-  font-weight: 700;
-}
-
-.pi220-author-hash {
-  color: #FF66FF;
-}
-
-.pi220-author-border {
-  color: #00FFFF;
-}
