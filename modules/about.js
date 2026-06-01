@@ -50,9 +50,9 @@ registerModule("ABOUT", (top) => {
         FOUNDER · DIRECTOR · MASTER ARCHITECT<br>
         ALL RIGHTS RESERVED. 2026.
       </div>
-
-      <br><br>
-
+      
+      <br>
+      
       <div class="about-image">
         <img 
           src="https://i.ibb.co/N22sRrcf/LEGAL-EXECUTIONS.jpg"
