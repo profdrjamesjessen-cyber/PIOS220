@@ -55,8 +55,8 @@ registerModule("ABOUT", (top) => {
 
       <div class="about-image">
         <img 
-          src="https://i.ibb.co/Sw6KrsXF/ALPHA-NATION-PARALLEL-INDUSTRIES-220.jpg"
-          alt="Parallel Industries 220 Logo"
+          src="https://i.ibb.co/N22sRrcf/LEGAL-EXECUTIONS.jpg"
+          alt="Parallel Industries 220"
         />
       </div>
 
