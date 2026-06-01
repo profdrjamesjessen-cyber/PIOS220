@@ -13,6 +13,69 @@ function wait(ms){
 }
 
 // =============================
+// AUTHOR VERIFICATION
+// =============================
+async function verifyAuthor(){
+
+  const AUTHOR = Object.freeze({
+    name: "PROF DR JESSE JESSEN",
+    organization: "PARALLEL INDUSTRIES 220",
+    year: "2026"
+  });
+
+  try {
+
+    const today = new Date().toISOString().slice(0, 10);
+
+    const source =
+      `${AUTHOR.name}|${AUTHOR.organization}|${AUTHOR.year}|${today}`;
+
+    const encoder = new TextEncoder();
+
+    const hashBuffer = await crypto.subtle.digest(
+      "SHA-256",
+      encoder.encode(source)
+    );
+
+    const dailyHash = Array.from(
+      new Uint8Array(hashBuffer)
+    )
+    .map(b => b.toString(16).padStart(2, "0"))
+    .join("")
+    .toUpperCase();
+
+    console.log(`
+======================================
+ PI220 AUTHOR VERIFICATION
+======================================
+ AUTHOR      : ${AUTHOR.name}
+ ORGANIZATION: ${AUTHOR.organization}
+ YEAR        : ${AUTHOR.year}
+ DATE        : ${today}
+ STATUS      : VERIFIED
+
+ DAILY HASH
+ --------------------------------------
+ ${dailyHash}
+======================================
+`);
+
+    logSystem(`AUTHOR SIGNATURE VERIFIED : ${AUTHOR.name}`);
+    logSystem(`PI220 DAILY HASH : ${dailyHash.substring(0, 32)}...`);
+
+    window.PI220_AUTHOR = AUTHOR;
+    window.PI220_DAILY_HASH = dailyHash;
+
+  } catch(error) {
+
+    console.error("[PI220] Author verification failed", error);
+
+    logSystem("AUTHOR VERIFICATION FAILED");
+
+  }
+}
+
+// =============================
 async function runBootSequence(){
 
   logSystem("WELCOME TO PARALLEL INDUSTRIES 220. CORPORATION. ALL RIGHTS RESERVED.");
@@ -52,6 +115,7 @@ async function runBootSequence(){
 async function loadModules(){
 
   try {
+
     if(!window.registerModule) return;
 
     await import("../modules/home.js");
@@ -59,16 +123,18 @@ async function loadModules(){
     await import("../modules/about.js");
     await import("../modules/contact.js");
     await import("../modules/auth.js");
-    
+
     // =============================
     // SERVICES (CRITICAL FIX)
     // =============================
-    await import("../services/carrousel.js"); // 🔥 THIS IS THE FIX
+    await import("../services/carrousel.js");
 
     console.log("[PI220] Modules loaded");
 
   } catch (e) {
+
     console.error("[PI220] Module loading failed", e);
+
   }
 }
 
@@ -76,6 +142,7 @@ async function loadModules(){
 async function loadPlugins(){
 
   try {
+
     if(!window.registerPlugin) return;
 
     await import("../plugins/pctm500.js");
@@ -86,7 +153,9 @@ async function loadPlugins(){
     console.log("[PI220] Plugins loaded");
 
   } catch (e) {
+
     console.error("[PI220] Plugin loading failed", e);
+
   }
 }
 
@@ -97,16 +166,37 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   initLogEngine();
 
+  // =============================
+  // AUTHOR VERIFICATION
+  // =============================
+  await verifyAuthor();
+
+  // =============================
+  // SYSTEM BOOT
+  // =============================
   await runBootSequence();
 
+  // =============================
+  // MODULES
+  // =============================
   await loadModules();
 
+  // =============================
+  // CORE SYSTEM
+  // =============================
   bootSystem();
 
+  // =============================
+  // PLUGINS
+  // =============================
   await loadPlugins();
 
+  // =============================
+  // RUNTIME
+  // =============================
   window.PI220_runtime?.start?.();
   window.PI220_runtime?.heartbeat?.();
 
   console.log("[PI220] System online");
+
 });
