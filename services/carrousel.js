@@ -13,6 +13,7 @@ const PI220_CAROUSEL = {
 
      
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
+    "https://i.ibb.co/JWDQVmKM/Captura-de-pantalla-2026-06-02-163616.png",
     "https://i.ibb.co/G3xGwPhf/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-NUKE01-FINISH.png",
     "https://i.ibb.co/212vw9Kr/SF1-NEO-CORE-NODE-AFATX10-V2-PHOTONIC-REACTOR.png",
     "https://i.ibb.co/cWvZcj6/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA-LEGAL-ACTION.jpg",
