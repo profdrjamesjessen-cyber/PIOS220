@@ -10,8 +10,6 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
-     
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
     "https://i.ibb.co/JWDQVmKM/Captura-de-pantalla-2026-06-02-163616.png",
     "https://i.ibb.co/G3xGwPhf/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-NUKE01-FINISH.png",
