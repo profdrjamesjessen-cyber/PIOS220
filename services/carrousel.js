@@ -9,6 +9,7 @@ const PI220_CAROUSEL = {
   _mounted: false, // 🔥 FIX: prevents multiple loops
 
   images: [
+     
 
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
     "https://i.ibb.co/JWDQVmKM/Captura-de-pantalla-2026-06-02-163616.png",
