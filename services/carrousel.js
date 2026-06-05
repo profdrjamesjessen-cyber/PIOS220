@@ -11,6 +11,7 @@ const PI220_CAROUSEL = {
   images: [
      
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
+    "https://i.ibb.co/8g20ymj2/PROF-DR-JESSE-JESSEN-MASTER-TECHNICAL-DOSSIER-https-github-com-profdrjamesjessen-cyber-PIOS220.png",
     "https://i.ibb.co/6R2VpMvv/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN.png",
     "https://i.ibb.co/YBfN0fqP/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-APHEX-X-H-HYBRID.png",
     "https://i.ibb.co/212vw9Kr/SF1-NEO-CORE-NODE-AFATX10-V2-PHOTONIC-REACTOR.png",
