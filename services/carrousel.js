@@ -11,6 +11,7 @@ const PI220_CAROUSEL = {
   images: [
      
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
+    "https://i.ibb.co/LzxSq4SJ/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-LETHAL-ACTION.png",
     "https://i.ibb.co/QFxzd4fK/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-KILL-HER-AND-KILL-HIM.png",
     "https://i.ibb.co/8g20ymj2/PROF-DR-JESSE-JESSEN-MASTER-TECHNICAL-DOSSIER-https-github-com-profdrjamesjessen-cyber-PIOS220.png",
     "https://i.ibb.co/6R2VpMvv/PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN.png",
