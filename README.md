@@ -1,166 +1,335 @@
-# LEGAL NOTICE · INTELLECTUAL PROPERTY · PROPRIETARY TECHNOLOGY
+# LEGAL NOTICE · INTELLECTUAL PROPERTY · INDUSTRIAL PROPERTY · COPYRIGHT · PATENT RIGHTS · TRADE SECRET PROTECTION
 
 # PARALLEL INDUSTRIES 220
 
-## PROF. DR. JESSE JESSEN · DIRECTOR · OWNER · MASTER ARCHITECT · CHIEF ENGINEER
+## PROF. DR. JESSE JESSEN
 
-© 2026 PROF. DR. JESSE JESSEN. ALL RIGHTS RESERVED.
+### DIRECTOR · OWNER · MASTER ARCHITECT · CHIEF ENGINEER
 
----
+© 2026 PROF. DR. JESSE JESSEN
+© 2026 PARALLEL INDUSTRIES 220
 
-## NOTICE OF OWNERSHIP
+ALL RIGHTS RESERVED.
 
-This repository, including but not limited to its source code, architecture, methodologies, algorithms, engineering designs, technical documentation, databases, file structures, specifications, industrial processes, system integrations, research materials, graphical assets, workflows, trade secrets, inventions, proprietary frameworks, and all associated intellectual property, is the exclusive property of PROF. DR. JESSE JESSEN and PARALLEL INDUSTRIES 220.
+# OFFICIAL DECLARATION OF OWNERSHIP
 
-All rights not expressly granted are strictly reserved.
+This repository, together with all associated repositories, source code, documentation, technical specifications, industrial systems, engineering architectures, computational frameworks, artificial intelligence systems, software modules, databases, file trees, technical drawings, industrial methodologies, research materials, inventions, discoveries, innovations, trade secrets, know-how, workflows, visual assets, models, subsystems and derivative works, constitutes proprietary intellectual and industrial property belonging exclusively to:
 
-No license, authorization, assignment, waiver, transfer, or permission is granted by the publication, storage, access, cloning, indexing, downloading, viewing, or analysis of this repository.
+**PROF. DR. JESSE JESSEN**
+and/or
+**PARALLEL INDUSTRIES 220**
 
----
+where applicable and as permitted by law.
 
-## PROTECTED ASSETS
+No portion of this repository shall be construed as entering the public domain.
 
-The following categories of assets are expressly claimed and protected to the maximum extent permitted by applicable law:
+No publication, access, viewing, indexing, crawling, mirroring, scraping, downloading, cloning, compilation, analysis, archival, machine learning ingestion, artificial intelligence training, reverse engineering, reproduction, adaptation, commercialization or distribution rights are granted.
 
-* Proprietary software systems
-* Industrial engineering architectures
+All rights remain expressly reserved.
+
+# PROTECTED TECHNOLOGIES
+
+Protected assets include but are not limited to:
+
+* Software systems
 * Artificial intelligence systems
-* Computational frameworks
+* Neural architectures
+* Industrial engineering systems
+* Industrial control systems
+* Proprietary frameworks
+* Computational methodologies
+* Security architectures
+* Cryptographic methodologies
 * Technical specifications
-* Research and development materials
-* Patents and patent-pending inventions
+* Engineering designs
+* Proprietary databases
+* Data structures
+* Documentation systems
+* Industrial procedures
+* Technical reports
+* Patentable inventions
+* Patent-pending inventions
 * Utility models
 * Industrial designs
-* Trade secrets
-* Confidential know-how
-* Proprietary databases
-* Documentation systems
+* Proprietary workflows
+* Scientific methodologies
+* Research materials
+* Technical discoveries
+* Technical implementations
 * System architectures
-* Subsystems and component designs
-* Branding and visual identity
-* Copyrighted works
-* Original authorship contributions
-* Technical discoveries and implementations
+* Hardware integrations
+* Firmware integrations
+* Algorithms
+* Subsystems
+* Source code
+* Object code
+* Development roadmaps
+* Confidential know-how
+* Trade secrets
+* Branding and identity assets
 
----
 
-## AUTHORSHIP AND MORAL RIGHTS
+# AUTHORSHIP RIGHTS
 
-PROF. DR. JESSE JESSEN is identified as the original author, architect, creator, inventor, designer, engineer and intellectual contributor of the protected works contained within this repository where applicable.
+The original authorship, authorship attribution, intellectual contribution, engineering authorship, architectural authorship, technical authorship and inventor recognition associated with this repository are expressly reserved.
 
-All authorship rights, attribution rights, moral rights, paternity rights and integrity rights are expressly reserved.
+No person, entity, organization or institution may remove, alter, suppress, conceal, replace, falsify or misrepresent:
 
-Any removal, alteration, concealment, falsification or misrepresentation of authorship, ownership, attribution, credits, notices, signatures, metadata or intellectual-property references may constitute a violation of applicable law.
+* Authorship credits
+* Inventor identification
+* Copyright notices
+* Ownership notices
+* Attribution references
+* Technical credits
+* Patent references
+* Metadata records
+* Repository history
+* Commit history
+* Development history
 
----
+without prior written authorization from the rights holder.
 
-## PATENT AND INVENTION PROTECTION
 
-Any invention, process, method, apparatus, system, subsystem, architecture, algorithm, industrial implementation or technological solution disclosed, referenced or embodied within this repository may be subject to patent rights, patent applications, continuing applications, international filings, utility-model protections or other forms of industrial-property protection.
+# PATENT RIGHTS NOTICE
 
-Nothing contained within this repository shall be interpreted as granting any license, whether express, implied, estoppel-based or otherwise, to practice, reproduce, commercialize, manufacture, distribute or exploit any protected invention.
+Any invention, process, method, apparatus, machine, manufacture, composition, system, subsystem, industrial implementation, architecture, software process, algorithm, computational method or technological solution disclosed within this repository may be protected by:
 
----
+* Granted patents
+* Patent applications
+* Provisional patent applications
+* Non-provisional patent applications
+* Continuation applications
+* Continuation-in-part applications
+* Divisional applications
+* Utility models
+* Industrial-property registrations
+* International patent filings
 
-## TRADE SECRET PROTECTION
+No patent license is granted.
 
-To the extent permitted by law, confidential information, proprietary methodologies, engineering processes, technical know-how, industrial strategies and non-public operational information contained within this repository constitute valuable trade secrets and confidential business information.
+No implied license exists.
 
-Unauthorized acquisition, disclosure, extraction, replication, reverse engineering, distribution or exploitation of such information is expressly prohibited.
+No estoppel-based rights are granted.
 
----
+No manufacturing, commercialization, implementation, licensing or deployment rights are authorized.
 
-## COPYRIGHT PROTECTION
 
-This repository and its contents are protected under applicable copyright laws, including but not limited to:
+# TRADE SECRET NOTICE
 
-* Spanish Intellectual Property legislation
-* European Union intellectual-property protections
-* International copyright conventions
-* Berne Convention for the Protection of Literary and Artistic Works
-* WIPO Copyright Treaty
-* TRIPS Agreement and related international frameworks
+Certain information contained herein may constitute:
 
-All source code, documentation, designs, texts, diagrams, specifications and derivative works are protected by copyright from the moment of creation.
+* Trade secrets
+* Confidential business information
+* Proprietary methodologies
+* Confidential engineering procedures
+* Technical know-how
+* Strategic information
+* Industrial know-how
+* Protected research materials
 
----
+Unauthorized acquisition, disclosure, extraction, dissemination, publication or exploitation is strictly prohibited.
 
-## APPLICABLE LEGAL FRAMEWORKS
 
-Protection may be sought under any applicable legal provisions, including but not limited to:
+# COPYRIGHT NOTICE
 
-### Spain
+All contents are protected under applicable copyright law from the moment of creation.
 
-* Article 10 of the Constitution of Spain
+Protection includes but is not limited to:
 
-* Article 18 of the Constitution of Spain
+* Source code
+* Documentation
+* Technical specifications
+* Architecture diagrams
+* Engineering drawings
+* Databases
+* Visual materials
+* Written works
+* Research materials
+* Designs
+* Derivative works
 
-* Article 24 of the Constitution of Spain
+All rights are reserved worldwide.
 
-* Article 33 of the Constitution of Spain
 
-* Article 38 of the Constitution of Spain
+# SPANISH LEGAL FRAMEWORK
 
-* Royal Legislative Decree 1/1996 approving the Intellectual Property Act
+Protection may be sought under applicable provisions including but not limited to:
 
-* Spanish Patent Act (Ley 24/2015, de Patentes)
+### Constitution of Spain
 
-* Trade Secret Protection legislation
+* Article 10
+* Article 14
+* Article 15
+* Article 18
+* Article 20
+* Article 24
+* Article 33
+* Article 38
 
+### National Legislation
+
+* Royal Legislative Decree 1/1996 (Intellectual Property Act)
+* Law 24/2015 (Patents Act)
+* Organic Law of the Judiciary
 * Civil Code
-
 * Criminal Code
-
+* Unfair Competition Act
+* Trade Secret Protection legislation
 * Data Protection legislation
+* Electronic Commerce legislation
+* Digital Services and Information Society legislation
 
-* Unfair Competition legislation
+# EUROPEAN UNION LEGAL FRAMEWORK
 
-### European Union
+Protection may be sought under:
 
-* European Patent Convention
-* EU Trade Secret protections
-* EU Copyright framework
-* Database protection regulations
-* Industrial design protections
-* Digital rights legislation
+* European Patent Convention (EPC)
+* Unified Patent Court framework
+* EU Copyright Directives
+* EU Trade Secret Directive
+* EU Database Rights
+* EU Design Protection Framework
+* GDPR
+* Digital Services Act
+* Digital Markets Act
+* Applicable European intellectual-property regulations
 
-### International
+
+# UNITED STATES FEDERAL LEGAL FRAMEWORK
+
+To the extent applicable, protection may also be asserted under United States federal law, including but not limited to:
+
+### United States Constitution
+
+* Article I, Section 8, Clause 8
+  (Patent and Copyright Clause)
+
+### Title 17 — United States Copyright Act
+
+Including but not limited to:
+
+* 17 U.S.C. §101 et seq.
+* 17 U.S.C. §106 (Exclusive Rights)
+* 17 U.S.C. §501 (Copyright Infringement)
+* 17 U.S.C. §502 (Injunctions)
+* 17 U.S.C. §504 (Damages)
+* 17 U.S.C. §505 (Attorney Fees)
+
+### Title 35 — United States Patent Act
+
+Including but not limited to:
+
+* 35 U.S.C. §101
+* 35 U.S.C. §102
+* 35 U.S.C. §103
+* 35 U.S.C. §111
+* 35 U.S.C. §154
+* 35 U.S.C. §271 (Patent Infringement)
+* 35 U.S.C. §281 (Remedies)
+* 35 U.S.C. §283 (Injunctions)
+* 35 U.S.C. §284 (Damages)
+* 35 U.S.C. §285 (Attorney Fees)
+
+### Defend Trade Secrets Act (DTSA)
+
+* 18 U.S.C. §1836
+* 18 U.S.C. §1839
+
+### Economic Espionage Act
+
+* 18 U.S.C. §§1831–1839
+
+### Computer Fraud and Abuse Act (CFAA)
+
+* 18 U.S.C. §1030
+
+### Federal Trademark Protections
+
+* Lanham Act
+* 15 U.S.C. §§1051 et seq.
+
+### Digital Millennium Copyright Act (DMCA)
+
+* 17 U.S.C. §512
+* Anti-Circumvention Provisions
+* Copyright Management Information Protections
+
+
+
+# INTERNATIONAL PROTECTION FRAMEWORK
+
+Including but not limited to:
 
 * Berne Convention
 * TRIPS Agreement
-* WIPO Treaties
-* Applicable patent, copyright, trade-secret and industrial-property protections worldwide
+* WIPO Copyright Treaty
+* WIPO Performances and Phonograms Treaty
+* Paris Convention for the Protection of Industrial Property
+* Patent Cooperation Treaty (PCT)
+* Hague Agreement
+* Madrid System
+* Applicable bilateral and multilateral treaties
 
----
 
-## ENFORCEMENT NOTICE
+# ENFORCEMENT RESERVATION
 
-PARALLEL INDUSTRIES 220 and PROF. DR. JESSE JESSEN expressly reserve all legal, equitable, administrative, regulatory, civil and criminal remedies available under applicable law.
+PROF. DR. JESSE JESSEN and PARALLEL INDUSTRIES 220 expressly reserve all rights, remedies and causes of action available under:
 
-Unauthorized access, reproduction, extraction, copying, redistribution, publication, commercialization, derivative development, reverse engineering, misappropriation, infringement, data harvesting, intellectual-property theft, authorship misrepresentation or unlawful exploitation may result in immediate legal action.
+* Civil law
+* Commercial law
+* Administrative law
+* Regulatory law
+* Criminal law
+* Intellectual-property law
+* Patent law
+* Copyright law
+* Trade-secret law
+* Unfair-competition law
+* International law
 
-All evidence, logs, metadata, timestamps, repository histories, commits, revisions, publications, archives and digital records may be preserved and used in support of enforcement actions.
+Unauthorized use may result in:
 
----
+* Cease-and-desist actions
+* DMCA takedown notices
+* Copyright claims
+* Patent enforcement actions
+* Trade-secret actions
+* Injunctive relief
+* Asset preservation remedies
+* Civil litigation
+* Criminal referrals where applicable
+* Recovery of damages, costs and attorney fees where permitted by law
 
-## NO IMPLIED LICENSE
 
-Access to this repository does not create any right, license, permission, authorization or entitlement to use any intellectual property contained herein.
+# NO LICENSE GRANTED
 
-Any rights not expressly granted in a written agreement signed by the rights holder are reserved.
+Nothing contained within this repository shall be interpreted as granting:
 
----
+* A copyright license
+* A patent license
+* A trademark license
+* A trade-secret license
+* A commercial license
+* A distribution license
+* A derivative-work license
+* An AI-training license
+* A data-mining license
 
-# OFFICIAL DECLARATION
+All rights remain reserved unless expressly granted through a signed written agreement executed by the rights holder.
 
-PROF. DR. JESSE JESSEN
+
+# OFFICIAL RIGHTS HOLDER
+
+**PROF. DR. JESSE JESSEN**
 
 Director · Owner · Master Architect · Chief Engineer
 
-PARALLEL INDUSTRIES 220
+**PARALLEL INDUSTRIES 220**
 
-© 2026 ALL RIGHTS RESERVED
+2026
 
-ALL INTELLECTUAL PROPERTY, PATENTS, COPYRIGHTS, TRADE SECRETS, INDUSTRIAL DESIGNS, ENGINEERING SYSTEMS, ARCHITECTURES, DOCUMENTATION, DATABASES, FILE TREES, REPOSITORIES AND ASSOCIATED WORKS REMAIN THE EXCLUSIVE PROPERTY OF THEIR RESPECTIVE RIGHTS HOLDER(S).
+ALL RIGHTS RESERVED.
 
-UNAUTHORIZED USE IS STRICTLY PROHIBITED.
+ALL INTELLECTUAL PROPERTY, INDUSTRIAL PROPERTY, COPYRIGHTS, PATENTS, PATENT APPLICATIONS, TRADE SECRETS, DATABASES, SOURCE CODE, DOCUMENTATION, ENGINEERING ARCHITECTURES, SYSTEMS, SUBSYSTEMS, FILE TREES, REPOSITORIES, DESIGNS, INVENTIONS AND ASSOCIATED WORKS REMAIN THE EXCLUSIVE PROPERTY OF THEIR RESPECTIVE RIGHTS HOLDER(S).
+
+UNAUTHORIZED USE, REPRODUCTION, DISTRIBUTION, MODIFICATION, REVERSE ENGINEERING, COMMERCIALIZATION OR EXPLOITATION IS STRICTLY PROHIBITED.
