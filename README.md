@@ -8,6 +8,7 @@
 
 © 2026 PROF. DR. JESSE JESSEN
 © 2026 PARALLEL INDUSTRIES 220
+https://i.ibb.co/fGFMvTtV/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES.png
 
 ALL RIGHTS RESERVED.
 
@@ -18,6 +19,7 @@ This repository, together with all associated repositories, source code, documen
 **PROF. DR. JESSE JESSEN**
 and/or
 **PARALLEL INDUSTRIES 220**
+https://i.ibb.co/fGFMvTtV/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES.png
 
 where applicable and as permitted by law.
 
