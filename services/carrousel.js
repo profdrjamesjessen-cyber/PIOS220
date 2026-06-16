@@ -10,6 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
+    "https://i.ibb.co/6J8VxCDg/Prof-Dr-Jesse-Jessen-Prof-Dr-Sylvia-Jessen.png",
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
     "https://i.ibb.co/fGFMvTtV/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES.png",
     "https://i.ibb.co/xKZwCLFQ/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES-AND-ACTION.png",
