@@ -14,6 +14,7 @@ const PI220_CAROUSEL = {
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
     "https://i.ibb.co/6J8VxCDg/Prof-Dr-Jesse-Jessen-Prof-Dr-Sylvia-Jessen.png",
     "https://i.ibb.co/YBjG8ggQ/Prof-Dr-Jesse-Jessen-AETHER-X-H1-BLOCK-II.png",
+    "https://i.ibb.co/pBL5jDqy/Prof-Dr-Jesse-Jessen-Parallel-Industries-220.png",
     "https://i.ibb.co/fGFMvTtV/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES.png",
     "https://i.ibb.co/xKZwCLFQ/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES-AND-ACTION.png",
     "https://i.ibb.co/PfcWxV1/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES-LEGAL-ACTION.png",
