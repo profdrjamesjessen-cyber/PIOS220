@@ -66,37 +66,37 @@ async function verifyAuthor(){
     // BOOT VERIFICATION DISPLAY
     // =============================
     logSystem("======================================");
-    await wait(250);
+    await wait(150);
 
     logSystem("PI220 AUTHOR VERIFICATION");
-    await wait(300);
+    await wait(159);
 
     logSystem("======================================");
-    await wait(250);
+    await wait(160);
 
     logSystem(`AUTHOR : ${AUTHOR.name}`);
-    await wait(300);
+    await wait(170);
 
     logSystem(`ORGANIZATION : ${AUTHOR.organization}`);
-    await wait(300);
+    await wait(180);
 
     logSystem(`YEAR : ${AUTHOR.year}`);
-    await wait(300);
+    await wait(190);
 
     logSystem(`DATE : ${today}`);
-    await wait(300);
+    await wait(200);
 
     logSystem("STATUS : VERIFIED");
-    await wait(300);
+    await wait(201);
 
     logSystem("HASH VERIFIED");
-    await wait(300);
+    await wait(202);
 
     logSystem(`HASH : ${dailyHash.substring(0, 32)}...`);
-    await wait(400);
+    await wait(203);
 
     logSystem("======================================");
-    await wait(500);
+    await wait(204);
 
     window.PI220_AUTHOR = AUTHOR;
     window.PI220_DAILY_HASH = dailyHash;
@@ -113,25 +113,25 @@ async function verifyAuthor(){
 async function runBootSequence(){
 
   logSystem("WELCOME TO PARALLEL INDUSTRIES 220. CORPORATION. ALL RIGHTS RESERVED.");
-  await wait(600);
+  await wait(250);
 
   logSystem("WEBSITE DESIGNED AND UNDER CONSTRUCTION BY PROF DR JESSE JESSEN. 2026.");
-  await wait(600);
+  await wait(251);
 
   logSystem("391 SERVERS NODE : ACTIVE | STATUS = ONLINE");
-  await wait(800);
+  await wait(252);
 
   logSystem("ALIEN SYNTAX : MATRIX INSTALLED | STATUS = ACTIVE");
-  await wait(600);
+  await wait(253);
 
   logSystem("SYSTEM SCAN COMPLETED | SYSTEM SECURE");
-  await wait(900);
+  await wait(254);
 
   logSystem("SUBSIDIARY NODE TEST : ONLINE");
-  await wait(500);
+  await wait(255);
 
   logSystem("DOWNLOADING DEPENDENCIES AND PACKAGES | STATUS = INSTALLED");
-  await wait(2400);
+  await wait(800);
 
   logSystem("LOADING KERNEL...", "system");
   await wait(700);
