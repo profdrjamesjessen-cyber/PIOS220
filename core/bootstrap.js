@@ -108,6 +108,47 @@ async function verifyAuthor(){
     logSystem("AUTHOR VERIFICATION FAILED");
 
   }
+
+
+
+// =============================
+  // RUNTIME
+  // =============================
+  window.PI220_runtime?.start?.();
+  window.PI220_runtime?.heartbeat?.();
+
+  console.log("[PI220] System online");
+
+  // =============================
+  // PI220 OFFICIAL SOUNDTRACK
+  // =============================
+  await wait(75);
+
+  logSystem("PI220 MEDIA CORE : ACTIVE");
+  await wait(85);
+
+  logSystem("OFFICIAL SOUNDTRACK DETECTED");
+  await wait(95);
+
+  logSystem("TRACK : EVERYTHING ANYTHING");
+  await wait(105);
+
+  logSystem("ARTIST : JESSE JESSEN");
+  await wait(115);
+
+  logSystem(
+    "SOUNDTRACK : https://www.reverbnation.com/jessejessen/song/31232217-everything-anything"
+  );
+  await wait(125);
+
+  logSystem("MEDIA MODULE : READY");
+
+});
+
+
+
+
+   
 }
 // =============================
 async function runBootSequence(){
