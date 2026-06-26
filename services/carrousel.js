@@ -13,6 +13,7 @@ const PI220_CAROUSEL = {
 
     "https://i.ibb.co/j9FbkMhc/Prof-Dr-Jesse-Jessen.png",
     "https://i.ibb.co/QFwtnDFF/ALPHA-NATION.png",
+    "https://i.ibb.co/qMPdSHVz/KICK-SCOOTER-VHX-220-X-BLOCK-I-PART-I.png",
     "https://i.ibb.co/8LMcyw4F/Prof-Dr-Jesse-Jessen-Aether-X-H1.png",
     "https://i.ibb.co/6J8VxCDg/Prof-Dr-Jesse-Jessen-Prof-Dr-Sylvia-Jessen.png",
     "https://i.ibb.co/67FhxcXM/ALPHA-NATION-PARALLEL-INDUSTRIES-220-PROF-DR-JESSE-JESSEN-ALPHA.jpg",
