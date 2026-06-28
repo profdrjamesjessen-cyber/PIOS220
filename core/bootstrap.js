@@ -255,4 +255,12 @@ await loadPlugins();
 
   logSystem("MEDIA MODULE : READY");
 
+  await wait(125);
+
+  logSystem("OPERATIVE : LIVE. ONGOING (LEGAL EXECUTIONS)");
+
+  await wait(125);
+
+  logSystem("STATUS : EXCEPTIONAL");
+  
 });
