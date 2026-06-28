@@ -242,14 +242,14 @@ await loadPlugins();
   logSystem("OFFICIAL SOUNDTRACK DETECTED");
   await wait(95);
 
-  logSystem("TRACK : EVERYTHING ANYTHING");
+  logSystem("TRACK : DR22 2 SUCC22");
   await wait(105);
 
   logSystem("ARTIST : JESSE JESSEN");
   await wait(115);
 
   logSystem(
-    "SOUNDTRACK : https://www.reverbnation.com/jessejessen/song/31232217-everything-anything"
+    "SOUNDTRACK : https://www.reverbnation.com/jessejessen/song/32380992-dr22-2-succ22"
   );
   await wait(125);
 
