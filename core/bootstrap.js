@@ -245,7 +245,7 @@ await loadPlugins();
   logSystem("TRACK : DR22 2 SUCC22");
   await wait(105);
 
-  logSystem("ARTIST : JESSE JESSEN");
+  logSystem("ARTIST : PROF DR JESSE JESSEN");
   await wait(115);
 
   logSystem(
