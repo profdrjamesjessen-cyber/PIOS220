@@ -527,3 +527,190 @@ ELEVATING HUMANITY
 
 2026
 ──────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────────────────────────────────────────────
+PI220 OS                                   03:58 PM | 29/06/2026
+──────────────────────────────────────────────────────────────────────────────
+
+PROJECT
+
+VHX-220
+ENGINEERING PARAMETER DEFINITION
+
+REFERENCE PLATFORM
+
+72 V HIGH PERFORMANCE ELECTRIC DRIVE
+
+STATUS
+
+CONCEPTUAL ENGINEERING BASELINE
+
+──────────────────────────────────────────────────────────────────────────────
+
+BATTERY
+
+Nominal Voltage................72 V
+
+Operating Voltage...............60–84 V
+
+Maximum Continuous Current......200 A
+
+Peak Current (10 s).............350 A
+
+Continuous Electrical Power.....14.4 kW
+
+Peak Electrical Power...........25.2 kW
+
+──────────────────────────────────────────────────────────────────────────────
+
+EM220 ELECTRIC MOTOR
+
+Motor Type......................Permanent-Magnet Synchronous Motor
+
+Continuous Power................15 kW
+
+Peak Power......................25 kW
+
+Continuous Speed................6,000 rpm
+
+Maximum Speed...................9,000 rpm
+
+Continuous Torque...............40 N·m
+
+Peak Torque.....................80 N·m
+
+Peak Efficiency.................96%
+
+Cooling.........................Liquid Cooled
+
+──────────────────────────────────────────────────────────────────────────────
+
+IHPM-220
+INTEGRATED HYDRAULIC POWER MODULE
+
+Pump Type.......................Variable-displacement axial piston
+
+Maximum Pressure................35 MPa (350 bar)
+
+Continuous Pressure.............25 MPa
+
+Maximum Flow....................22 L/min
+
+Continuous Flow.................14 L/min
+
+Mechanical Efficiency...........95%
+
+Volumetric Efficiency...........96%
+
+Overall Efficiency..............91%
+
+──────────────────────────────────────────────────────────────────────────────
+
+HPA-220
+PRESSURE ACCUMULATOR
+
+Type............................Bladder accumulator
+
+Working Pressure................25 MPa
+
+Maximum Pressure................35 MPa
+
+Nominal Volume..................0.5 L
+
+Gas.............................Nitrogen
+
+──────────────────────────────────────────────────────────────────────────────
+
+3VS3 ACTUATOR ARRAY
+
+Configuration...................6 synchronized actuators
+
+Actuator Type...................Double-acting electro-hydraulic
+
+Stroke..........................25 mm
+
+Bore............................18 mm
+
+Rod.............................10 mm
+
+Maximum Pressure................35 MPa
+
+Response Time...................<10 ms
+
+Synchronization Accuracy........±0.5%
+
+──────────────────────────────────────────────────────────────────────────────
+
+ITDM-220
+
+Reduction Gear..................Planetary
+
+Concept Ratio...................6:1
+
+Rated Torque....................500 N·m
+
+Peak Torque.....................900 N·m
+
+──────────────────────────────────────────────────────────────────────────────
+
+THERMAL SYSTEM
+
+Liquid Cooling
+
+Hydraulic Oil Cooling
+
+Motor Cooling Jacket
+
+Controller Cooling Plate
+
+Estimated Continuous Temperature
+
+Motor...........................75 °C
+
+Hydraulic Oil...................60 °C
+
+Controller......................55 °C
+
+──────────────────────────────────────────────────────────────────────────────
+
+PROJECTED SYSTEM PERFORMANCE
+
+Continuous Mechanical Power.....15 kW
+
+Peak Mechanical Power...........25 kW
+
+Continuous Output Torque........≈240 N·m after 6:1 reduction
+
+Peak Output Torque..............≈480 N·m after 6:1 reduction
+
+Hydraulic Assist................Application-dependent boost during transient
+                                events; it cannot create energy beyond the
+                                electrical input but may improve torque
+                                delivery and response.
+
+──────────────────────────────────────────────────────────────────────────────
+
+ENGINEERING SUMMARY
+
+Electrical Efficiency...........96%
+
+Hydraulic Efficiency............91%
+
+Gear Efficiency.................98%
+
+Estimated Overall System........≈85–88%
+
+──────────────────────────────────────────────────────────────────────────────
+
+Prepared for
+
+PARALLEL INDUSTRIES 220
+
+Signed
+
+Prof Dr Jesse Jessen
+Director • Owner • Master
+
+2026
+──────────────────────────────────────────────────────────────────────────────
