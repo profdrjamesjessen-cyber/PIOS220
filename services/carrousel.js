@@ -11,6 +11,8 @@ const PI220_CAROUSEL = {
   images: [
 
 
+
+    "https://i.ibb.co/8DcVprdQ/Prof-Dr-Jesse-Jessen-VHX-200-TWIN.jpg",
     "https://i.ibb.co/j9FbkMhc/Prof-Dr-Jesse-Jessen.png",
     "https://i.ibb.co/QFwtnDFF/ALPHA-NATION.png",
     "https://i.ibb.co/qMPdSHVz/KICK-SCOOTER-VHX-220-X-BLOCK-I-PART-I.png",
