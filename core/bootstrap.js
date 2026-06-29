@@ -257,7 +257,7 @@ await loadPlugins();
 
   await wait(125);
 
-  logSystem("OPERATIVE : LIVE. ONGOING (LEGAL EXECUTIONS)");
+  logSystem("OPERATIVE : LIVE. ONGOING (*)");
 
   await wait(125);
 
