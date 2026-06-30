@@ -242,7 +242,7 @@ await loadPlugins();
   logSystem("OFFICIAL SOUNDTRACK DETECTED");
   await wait(95);
 
-  logSystem("TRACK : DR22 2 SUCC22");
+  logSystem("TRACK : MASTER CLASS ENGINEEING VHX-220");
   await wait(105);
 
   logSystem("PROFESOR : PROF DR JESSE JESSEN");
