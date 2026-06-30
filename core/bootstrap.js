@@ -242,7 +242,7 @@ await loadPlugins();
   logSystem("OFFICIAL SOUNDTRACK DETECTED");
   await wait(95);
 
-  logSystem("TRACK : MASTER CLASS ENGINEEING VHX-220");
+  logSystem("TRACK : MASTER CLASS ENGINEERING VHX-220");
   await wait(105);
 
   logSystem("PROFESOR : PROF DR JESSE JESSEN");
@@ -253,11 +253,11 @@ await loadPlugins();
 
   logSystem("MEDIA MODULE : READY");
 
-  await wait(125);
+  await wait(126);
 
   logSystem("OPERATIVE : LIVE. ONGOING (*)");
 
-  await wait(125);
+  await wait(127);
 
   logSystem("STATUS : EXCEPTIONAL");
   
