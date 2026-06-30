@@ -245,12 +245,10 @@ await loadPlugins();
   logSystem("TRACK : DR22 2 SUCC22");
   await wait(105);
 
-  logSystem("ARTIST : PROF DR JESSE JESSEN");
+  logSystem("PROFESOR : PROF DR JESSE JESSEN");
   await wait(115);
 
-  logSystem(
-    "SOUNDTRACK : https://www.reverbnation.com/jessejessen/song/32380992-dr22-2-succ22"
-  );
+  logSystem("SOUNDTRACK : https://on.soundcloud.com/p3IMF953JjOfbPU5KT");
   await wait(125);
 
   logSystem("MEDIA MODULE : READY");
