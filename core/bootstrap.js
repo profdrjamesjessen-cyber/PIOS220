@@ -260,5 +260,9 @@ await loadPlugins();
   await wait(127);
 
   logSystem("STATUS : EXCEPTIONAL");
+       
+  await wait(128);
+
+  logSystem("SYSTEMS : ALL SYSTEMS NOMINAL");
   
 });
