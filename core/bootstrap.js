@@ -257,12 +257,13 @@ await loadPlugins();
 
   logSystem("OPERATIVE : LIVE. ONGOING (*)");
 
+  await wait(128);
+
+  logSystem("SYSTEMS : ALL SYSTEMS NOMINAL");
+
   await wait(127);
 
   logSystem("STATUS : EXCEPTIONAL");
        
-  await wait(128);
-
-  logSystem("SYSTEMS : ALL SYSTEMS NOMINAL");
   
 });
