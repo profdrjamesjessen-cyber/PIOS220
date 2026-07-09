@@ -239,16 +239,16 @@ await loadPlugins();
   logSystem("PI220 MEDIA CORE : ACTIVE");
   await wait(85);
 
-  logSystem("OFFICIAL SOUNDTRACK DETECTED");
+  logSystem("OFFICIAL MASTER CLASS DETECTED");
   await wait(95);
 
-  logSystem("TRACK : MASTER CLASS ENGINEERING VHX-220");
+  logSystem("TRACK : MASTER CLASS LESSON II PART II : ARCHITECTURE, REQUIREMENTS AND INTEGRATION");
   await wait(105);
 
   logSystem("PROFESOR : PROF DR JESSE JESSEN");
   await wait(115);
 
-  logSystem("SOUNDTRACK : https://on.soundcloud.com/p3IMF953JjOfbPU5KT");
+  logSystem("SOUNDTRACK : https://on.soundcloud.com/zlXBGrtyQznSDQREIC");
   await wait(125);
 
   logSystem("MEDIA MODULE : READY");
