@@ -242,13 +242,13 @@ await loadPlugins();
   logSystem("OFFICIAL MASTER CLASS DETECTED");
   await wait(95);
 
-  logSystem("TRACK : MASTER CLASS LESSON II PART II : ARCHITECTURE, REQUIREMENTS AND INTEGRATION");
+  logSystem("TRACK : Listen to MASTER COURSE — SPECIAL LECTURE SYSTEMS ENGINEERING BEYOND MACHINES : What the FIFA World Cup Teaches About Perfect System Architecture Parallel Industries 220 — Master Course | Lesson II | Complementary Lecture by Prof Dr Jesse Jessen");
   await wait(105);
 
   logSystem("PROFESOR : PROF DR JESSE JESSEN");
   await wait(115);
 
-  logSystem("SOUNDTRACK : https://on.soundcloud.com/zlXBGrtyQznSDQREIC");
+  logSystem("SOUNDTRACK : https://on.soundcloud.com/WCaSyoJqSxNMTr9aLn");
   await wait(125);
 
   logSystem("MEDIA MODULE : READY");
