@@ -11,7 +11,7 @@ const PI220_CAROUSEL = {
   images: [
 
 
-
+    "https://i.ibb.co/VccjxnS6/Prof-Dr-Jesse-Jessen.png",
     "https://i.ibb.co/NdP20pB9/Prof-Dr-Jesse-Jessen.jpg",
     "https://i.ibb.co/xKp5PjVs/Prof-Dr-Jesse-Jessen-AERP-220.png",
     "https://i.ibb.co/mpM9NpP/World-Cup-Portfolio-2026-Update.png",
