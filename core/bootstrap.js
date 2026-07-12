@@ -18,7 +18,7 @@ return new Promise(r => setTimeout(r, ms));
 async function verifyAuthor(){
 
 const AUTHOR = Object.freeze({
-name: "PROF DR JESSE JESSEN",
+name: "PROF DR SC JESSE JESSEN",
 organization: "PARALLEL INDUSTRIES 220",
 year: "2026"
 });
@@ -114,7 +114,7 @@ async function runBootSequence(){
 logSystem("WELCOME TO PARALLEL INDUSTRIES 220. CORPORATION. ALL RIGHTS RESERVED.");
 await wait(250);
 
-logSystem("WEBSITE DESIGNED AND UNDER CONSTRUCTION BY PROF DR JESSE JESSEN. 2026.");
+logSystem("WEBSITE DESIGNED AND UNDER CONSTRUCTION BY PROF DR SC JESSE JESSEN. 2026.");
 await wait(251);
 
 logSystem("391 SERVERS NODE : ACTIVE | STATUS = ONLINE");
@@ -242,10 +242,10 @@ await loadPlugins();
   logSystem("OFFICIAL MASTER CLASS DETECTED");
   await wait(95);
 
-  logSystem("TRACK : Listen to MASTER COURSE — SPECIAL LECTURE SYSTEMS ENGINEERING BEYOND MACHINES : What the FIFA World Cup Teaches About Perfect System Architecture Parallel Industries 220 — Master Course | Lesson II | Complementary Lecture by Prof Dr Jesse Jessen");
+  logSystem("TRACK : Listen to MASTER COURSE — SPECIAL LECTURE SYSTEMS ENGINEERING BEYOND MACHINES : What the FIFA World Cup Teaches About Perfect System Architecture Parallel Industries 220 — Master Course | Lesson II | Complementary Lecture by Prof Dr Sc Jesse Jessen");
   await wait(105);
 
-  logSystem("PROFESOR : PROF DR JESSE JESSEN");
+  logSystem("PROFESOR : PROF DR SC JESSE JESSEN");
   await wait(115);
 
   logSystem("SOUNDTRACK : https://on.soundcloud.com/WCaSyoJqSxNMTr9aLn");
