@@ -12,7 +12,7 @@ const PI220_CAROUSEL = {
 
     "https://i.ibb.co/ycFjGR1v/Prof-Dr-Sc-Jesse-Jessen-F1-AERP-220-X.png",
     "https://i.ibb.co/VccjxnS6/Prof-Dr-Jesse-Jessen.png",
-    "https://i.ibb.co/NdP20pB9/Prof-Dr-Jesse-Jessen.jpg",
+    "https://i.ibb.co/jP2FJtxH/World-Cup-2026-Portfolio-Update.png",
     "https://i.ibb.co/LDQdZJRz/Prof-Dr-Sc-Jesse-Jessen.png",
     "https://i.ibb.co/xKp5PjVs/Prof-Dr-Jesse-Jessen-AERP-220.png",
     "https://i.ibb.co/mpM9NpP/World-Cup-Portfolio-2026-Update.png",
