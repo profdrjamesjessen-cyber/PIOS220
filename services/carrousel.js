@@ -10,7 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
+    "https://i.ibb.co/ycFjGR1v/Prof-Dr-Sc-Jesse-Jessen-F1-AERP-220-X.png",
     "https://i.ibb.co/VccjxnS6/Prof-Dr-Jesse-Jessen.png",
     "https://i.ibb.co/NdP20pB9/Prof-Dr-Jesse-Jessen.jpg",
     "https://i.ibb.co/LDQdZJRz/Prof-Dr-Sc-Jesse-Jessen.png",
