@@ -12,7 +12,7 @@ const PI220_CAROUSEL = {
 
 
 
-
+    "https://i.ibb.co/msfpHGf/AERP-220-PI-GLOBE-AERP-220-PI-PLATFORM.png",
     "https://i.ibb.co/Y4h9Dnv3/PROF-DR-SC-F1-PI220-FORD-PILOT.jpg",
     "https://i.ibb.co/ycFjGR1v/Prof-Dr-Sc-Jesse-Jessen-F1-AERP-220-X.png",
     "https://i.ibb.co/RGXkQG2X/Prof-Dr-Sc-Jesse-Jessen-F1-PI220-FORD-PILOT.jpg",
