@@ -10,6 +10,9 @@ const PI220_CAROUSEL = {
 
   images: [
 
+
+
+    "https://i.ibb.co/LFHrMQW/Prof-D-Sc-Jesse-Jessen.png",
     "https://i.ibb.co/vvMWwSkR/AERP-220-X-BLOCK-III.png",
     "https://i.ibb.co/FbrVyYfH/Parallel-Industries-220-CRYSTAL-BALL.png",
     "https://i.ibb.co/hz6LyxG/PROF-DR-SC-JESSE-JESSEN.jpg",
