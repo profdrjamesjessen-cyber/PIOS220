@@ -11,6 +11,8 @@ const PI220_CAROUSEL = {
   images: [
 
 
+
+    "https://i.ibb.co/W4SczZFR/CONGRATULATIONS-PROF-DR-SENTIENT.png",
     "https://i.ibb.co/pqFmRJK/ONGOING-SIERRA.jpg",
     "https://i.ibb.co/rKjXSGFg/AERP-220-X-STARFORCE-ALLIANCE-PI220.png",
     "https://i.ibb.co/twMnYmh7/PI-GLOBE-EXECUTIVE-SUMMARY.png",
