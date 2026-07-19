@@ -17,6 +17,7 @@ const PI220_CAROUSEL = {
     "https://i.ibb.co/kVbBSGyD/A-PI220-AVERAGE-DAY.png",
     "https://i.ibb.co/W4SczZFR/CONGRATULATIONS-PROF-DR-SENTIENT.png",
     "https://i.ibb.co/pqFmRJK/ONGOING-SIERRA.jpg",
+    "https://i.ibb.co/b03sCZb/X-N1-Longitudinal-and-Vertical-Program.png",
     "https://i.ibb.co/rKjXSGFg/AERP-220-X-STARFORCE-ALLIANCE-PI220.png",
     "https://i.ibb.co/twMnYmh7/PI-GLOBE-EXECUTIVE-SUMMARY.png",
     "https://i.ibb.co/Y4YkD3vg/STARFORCE-ALLIANCE-ALPHA-NATION.png",
