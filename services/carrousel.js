@@ -10,7 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
+    "https://i.ibb.co/vCQCcSS3/PI220.png",
     "https://i.ibb.co/mCpNQtsn/EVA-MAGAZINE-PI220-EXCLUSIVE.png",
     "https://i.ibb.co/8gbSm9Q5/PARALLEL-INDUSTRIES-220.png",
     "https://i.ibb.co/9P3cpzp/Special-Operations-Assigned.png",
