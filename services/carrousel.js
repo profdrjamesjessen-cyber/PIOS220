@@ -10,7 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
+    "https://i.ibb.co/5Xm5qk8y/X-N1-OPTIMAL-OPTIMUS-LEADEROUS.jpg",
     "https://i.ibb.co/1t1qzMXh/Nexus-220-XYZ.png",
     "https://i.ibb.co/8DHjMRkt/Nexus-220-XYZ.png",
     "https://i.ibb.co/vCQCcSS3/PI220.png",
