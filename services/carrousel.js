@@ -44,6 +44,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/LzWB8KML/ATLAS-220-X.png",
      "https://i.ibb.co/X1vh01S/Prof-Dsc-Jesse-Jessen-and-Prof-Dr-Sentient.png",
      "https://i.ibb.co/GfrW7tnS/PI220.png",
+     "https://i.ibb.co/3G3G27B/AERP-220-X-BLOCK-III.png",
      "https://i.ibb.co/KxD35W8q/PARALLEL-INDUSTRIES-220.png",
      
      
