@@ -12,6 +12,7 @@ const PI220_CAROUSEL = {
 
      "https://i.ibb.co/t1VgvpD/PI220-PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/QFLQVc5D/image.jpg",
+     "https://i.ibb.co/Ld5wKyj8/PI220-PRIVATE-PROPERTY-PRIVATE-POLICE.jpg",
      "https://i.ibb.co/fzcWjfXR/PI220.png",
      "https://i.ibb.co/VWwrT4HJ/Aether-X-H1-MKII-TOP-SECRET.jpg",
      "https://i.ibb.co/TBc7wNLB/Parallel-Industries-220-PI220-PROF-DSC.png",
