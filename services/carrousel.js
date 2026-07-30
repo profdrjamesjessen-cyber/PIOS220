@@ -8,7 +8,7 @@ const PI220_CAROUSEL = {
   interval: null,
   _mounted: false, // 🔥 FIX: prevents multiple loops
 
-  images: [",
+  images: [
 
      "https://i.ibb.co/t1VgvpD/PI220-PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/QFLQVc5D/image.jpg",
