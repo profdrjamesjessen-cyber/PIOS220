@@ -12,6 +12,8 @@ const PI220_CAROUSEL = {
 
 
 
+     "https://i.ibb.co/0jXTvr8S/PI220-MISSION-CONTINUES.png",
+     "https://i.ibb.co/CybVWYR/Welcome-to-Backbone-Platform.png",
      "https://i.ibb.co/nNVL4JvP/PI220-MISSION-CONTINUES.png",
      "https://i.ibb.co/Xf87DJxf/PI220-MISSION-CONTINUES.png",
      "https://i.ibb.co/mFdS3C5L/PI220-MISSION-CONTINUES.png",
