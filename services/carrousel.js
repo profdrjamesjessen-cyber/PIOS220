@@ -10,6 +10,9 @@ const PI220_CAROUSEL = {
 
   images: [
 
+
+
+     "https://i.ibb.co/YFvWQP89/REAL-SCORE-AWARDED-BY-PI220-AI-RESEARCH.png",
      "https://i.ibb.co/7Jy5QzXc/PI220-MISSION-CONTINUES.png",
      "https://i.ibb.co/VW6jbcGR/PI220.png",
      "https://i.ibb.co/fKtkRkR/PI220-EVA-MAGAZINE.png",
