@@ -10,7 +10,7 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
+     "https://i.ibb.co/q359Qs37/ONGOING-DEATH-PENALTY.png",
      "https://i.ibb.co/TBZcd6rW/PI220.png",
      "https://i.ibb.co/YFvWQP89/REAL-SCORE-AWARDED-BY-PI220-AI-RESEARCH.png",
      "https://i.ibb.co/tMSHPVN6/PI220-MISSION-CONTINUES.png",
