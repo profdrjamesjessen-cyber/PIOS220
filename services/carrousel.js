@@ -11,6 +11,7 @@ const PI220_CAROUSEL = {
   images: [
 
      "https://i.ibb.co/ymYF5xXR/LETTER-MARGARETH-SIGHT-AND-OSOK-LEGAL-EXECUTIONS-DP.png",
+     "https://i.ibb.co/gbdSwrPn/Prof-D-Sc-and-Ph-D-Private-Property.jpg",
      "https://i.ibb.co/5hp8kr4F/PI220.png", 
      "https://i.ibb.co/sdkptzLg/PI220-MISSION-CONTINUES.png",
      "https://i.ibb.co/q359Qs37/ONGOING-DEATH-PENALTY.png",
