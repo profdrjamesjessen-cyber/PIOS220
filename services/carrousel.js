@@ -14,7 +14,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/bMZznPDS/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/MDfG3bf2/THE-PI220-TOP-SECRET-FILES.png", 
      "https://i.ibb.co/nMbtth3x/PI220.png",
-     "https://i.ibb.co/dNtky7V/PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/VY1q3rvz/PROF-DSC-JESSE-JESSEN.jpg",
      "https://i.ibb.co/V7RBkK3/PROF-DSC-JESSE-JESSEN-DIRECTOR-MASTER-OWNER.png",
      "https://i.ibb.co/SXLDxpDy/PROF-DSC-JESSE-JESSEN.png",
