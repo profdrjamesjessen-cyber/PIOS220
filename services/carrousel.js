@@ -10,11 +10,11 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
-     "https://i.ibb.co/v6fXRLf9/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/R5263NR/ONGOING.jpg",
+     "https://i.ibb.co/CKQCcNb4/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/xtJKxTSc/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/xtSs9LXP/THE-PI220-TOP-SECRET-FILES.png",
-     "https://i.ibb.co/tTDvVnf7/PI220.jpg",
-     "https://i.ibb.co/bMZznPDS/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/v6fXRLf9/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/MDfG3bf2/THE-PI220-TOP-SECRET-FILES.png", 
      "https://i.ibb.co/nMbtth3x/PI220.png",
      "https://i.ibb.co/VY1q3rvz/PROF-DSC-JESSE-JESSEN.jpg",
