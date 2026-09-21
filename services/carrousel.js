@@ -10,9 +10,11 @@ const PI220_CAROUSEL = {
 
   images: [
 
-    "https://github.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/LETTER.png",
-    "https://github.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/21092026.png",
-    "https://github.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/CHAPTER12.png",
+     
+    "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/LETTER.png",
+    "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/21092026.png",
+    "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/blob/784086461db0bbc99abc2878e67daf09c6ae5599/blog/CHAPTER12.png",
+
      
   ],
 
