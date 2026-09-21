@@ -10,6 +10,8 @@ const PI220_CAROUSEL = {
 
   images: [
 
+
+    "https://i.ibb.co/zV4TCYdj/JAMES-JESSE-MARGARETH-ANDREA-MIRIAM-EVA-SYLVIA.png", 
     "https://i.ibb.co/1YyJrt8q/DEATH-PENALTY.png", 
     "https://i.ibb.co/KpZSDQVR/LEGAL-EXECUTIONS-DEATH-PENALTY-KILL-HER-KILL-HIM.png", 
     "https://i.ibb.co/bRMRZV3s/PI220.png",
