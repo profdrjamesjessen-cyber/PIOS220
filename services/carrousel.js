@@ -10,7 +10,9 @@ const PI220_CAROUSEL = {
 
   images: [
 
-     
+
+    "https://i.ibb.co/SFx1nxM/EMAIL-ME-ONLY-IF-SCORE-ABOVE-80-100-NATIVE-SPANISH-LADIES-18-25-ONLY.png",
+    "https://i.ibb.co/608hjrJR/THE-PI220.png",
     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/784086461db0bbc99abc2878e67daf09c6ae5599/blog/LETTER.png",
     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/784086461db0bbc99abc2878e67daf09c6ae5599/blog/21092026.png",
     "https://i.ibb.co/HD6jsvnf/THE-PI220.png",
