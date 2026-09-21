@@ -13,6 +13,7 @@ const PI220_CAROUSEL = {
      
     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/784086461db0bbc99abc2878e67daf09c6ae5599/blog/LETTER.png",
     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/784086461db0bbc99abc2878e67daf09c6ae5599/blog/21092026.png",
+    "https://i.ibb.co/HD6jsvnf/THE-PI220.png",
     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/784086461db0bbc99abc2878e67daf09c6ae5599/blog/CHAPTER12.png",
 
      
