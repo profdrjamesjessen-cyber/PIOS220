@@ -11,7 +11,7 @@ const PI220_CAROUSEL = {
   images: [
 
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/6684528f651aed826d2ef3f93a7c6ee078048bb5/blog/LETTER.png",
-     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/blob/cdc3c181eaec41f27d4454c74bd35384846be622/blog/Captura%20de%20pantalla%202026-09-21%20092140.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/blob/e172fd5c252a95f513b0091a8b330ccb5ea1cb74/blog/21092026.png",
      
      
   ],
