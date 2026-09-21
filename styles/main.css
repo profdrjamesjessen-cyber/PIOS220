@@ -418,10 +418,10 @@ align-items: center;
 margin-top: 20px;
 }
 
-/* IMAGE CONTAINER WRAPPER /
+/* IMAGE CONTAINER WRAPPER */
 .pi220-carousel-wrapper {
 width: 100%;
-max-width: 400px;   / keeps it controlled on large screens */
+max-width: 400px;   /* keeps it controlled on large screens */
 height: auto;
 
 display: flex;
