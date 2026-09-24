@@ -12,7 +12,7 @@ const PI220_CAROUSEL = {
 
     "https://i.ibb.co/RThsrZXG/PROF-DSC-JESSE-JESSEN-POKERSTARS-BLACK-FRIDAY.png",
     "https://i.ibb.co/rK275mYM/50-000-BN.png",
-    "https://i.ibb.co/d0kP7QFM/PROF-DSC-JESSE-JESSEN-GUITAR-YAMAHA-SLG-200-S-SPONSORED-BY-PI220.png",
+    "https://i.ibb.co/KxsVbmqC/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/k6cTHkSN/LETTER.png",
     "https://i.ibb.co/NP6c2g5/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/NRJqfy5/THE-PI220-TOP-SECRET-FILES.png",
