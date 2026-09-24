@@ -10,6 +10,8 @@ const PI220_CAROUSEL = {
 
   images: [
 
+
+    "https://i.ibb.co/VpVS0WHR/PI220.png",
     "https://i.ibb.co/sJD6ffXT/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/RThsrZXG/PROF-DSC-JESSE-JESSEN-POKERSTARS-BLACK-FRIDAY.png",
     "https://i.ibb.co/rK275mYM/50-000-BN.png",
