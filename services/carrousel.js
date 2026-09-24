@@ -12,6 +12,7 @@ const PI220_CAROUSEL = {
 
 
     "https://i.ibb.co/CphkVRgN/PARALLEL-INDUSTRIES-220.png",
+    "https://i.ibb.co/r22mYv6q/LEGAL-EXECUTIONS-ALL-TIMES-REJECTED-MALE-PUTA-MIERDA.png", 
     "https://i.ibb.co/HT9tcNSk/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/27dky4q6/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/sJD6ffXT/PROF-DSC-JESSE-JESSEN.png",
