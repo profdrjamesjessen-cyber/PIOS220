@@ -12,6 +12,7 @@ const PI220_CAROUSEL = {
 
 
     "https://i.ibb.co/CphkVRgN/PARALLEL-INDUSTRIES-220.png",
+    "https://i.ibb.co/84PC4nR9/LEGAL-EXECUTIONS-SPECIAL-OPERATIONS-DEATH-PENALTY.png",
     "https://i.ibb.co/r22mYv6q/LEGAL-EXECUTIONS-ALL-TIMES-REJECTED-MALE-PUTA-MIERDA.png", 
     "https://i.ibb.co/Txxrnfrj/DEATH-PENALTY-SPECIAL-OPERATIONS-MASSACRE.png",
     "https://i.ibb.co/j9sQVfv6/PEGAJOSA-MIERDA-KILL-HER-KILL-HIM.png",
