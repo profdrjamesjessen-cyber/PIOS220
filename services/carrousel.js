@@ -13,6 +13,7 @@ const PI220_CAROUSEL = {
     
     "https://i.ibb.co/CphkVRgN/PARALLEL-INDUSTRIES-220.png",
     "https://i.ibb.co/xqyDgK1r/THE-PI220-MEMORANDUM.png",
+    "https://i.ibb.co/6JG0C2fD/WORLD-WAR-III-LEGAL-EXECUTIONS-DEATH-PENALTY.png",
     "https://i.ibb.co/5g7mRGvH/SPECIAL-OPERATIONS.png",
     "https://i.ibb.co/GD7bBmR/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
     "https://i.ibb.co/VcBCVhTh/THE-PI220-PORTFOLIO-WARCRAFT-1-4-INDEPENDENT-NO-CROSS-CONTAMINATION.png",
