@@ -11,6 +11,7 @@ const PI220_CAROUSEL = {
   images: [
 
 
+    "https://i.ibb.co/93nsM6Yw/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
     "https://i.ibb.co/v7mvY4y/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/jk34MnbQ/PARALLEL-PICTURES-PRESENT-PARALLELMAN.png",
     "https://i.ibb.co/Y4JXDyps/PROF-DSC-JESSE-JESSEN-I-KILLED-SPIDERMAN-NY-IT-WAS-JUST-AN-UGLY-SPIDER.png", 
