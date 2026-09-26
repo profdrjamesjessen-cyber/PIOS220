@@ -25,6 +25,7 @@ const PI220_CAROUSEL = {
     "https://i.ibb.co/zTR9ksbc/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/m3cWCF8/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/XrWGsFcQ/THE-PI220-TOP-SECRET-FILES.png",
+    "https://i.ibb.co/rKzmKDbR/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/27dky4q6/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/sJD6ffXT/PROF-DSC-JESSE-JESSEN.png",
     "https://i.ibb.co/RThsrZXG/PROF-DSC-JESSE-JESSEN-POKERSTARS-BLACK-FRIDAY.png",
