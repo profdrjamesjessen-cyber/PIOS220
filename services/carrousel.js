@@ -41,6 +41,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/RThsrZXG/PROF-DSC-JESSE-JESSEN-POKERSTARS-BLACK-FRIDAY.png",
           "https://i.ibb.co/0yHp4BjT/ORDER-21-22-09-2026.png",
           "https://i.ibb.co/N2rhctn6/THE-PI220.png",
+          "https://i.ibb.co/mCyDL3Cy/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/5XVNrJJw/THE-PI220.png",
           "https://i.ibb.co/RkB1tgnB/PROF-DSC-JESSE-JESSEN.png",
      
