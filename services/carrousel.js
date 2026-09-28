@@ -11,6 +11,9 @@ const PI220_CAROUSEL = {
   images: [
 
 
+
+     
+          "https://i.ibb.co/RxP4yTr/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/xqyDgK1r/THE-PI220-MEMORANDUM.png",
           "https://i.ibb.co/7JQsDMC1/72-H-TO-ABANDON-MALLORCA-100.png",
           "https://i.ibb.co/8n6WP1qT/PARALLEL-INDUSTRIES-220.png",
@@ -30,6 +33,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/XrWGsFcQ/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/V0zt0fHc/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/rRmDHzzh/THE-PI220-TOP-SECRET-FILES.png",
+          "https://i.ibb.co/JWSbH7qs/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
           "https://i.ibb.co/fzV6NmqN/THE-PI220-PORTFOLIO-WARCRAFT-2-4-NO-CROSS-CONTAMINATION.png",
           "https://i.ibb.co/Txh0cntn/THE-PI220-PORTFOLIO-WARCRAFT-1-4-INDEPENDENT-NO-CROSS-CONTAMINATION.png",
