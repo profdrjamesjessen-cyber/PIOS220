@@ -41,7 +41,7 @@ const PI220_CAROUSEL = {
     "https://i.ibb.co/BVfzMx2w/THE-PI220-TOP-SECRET-FILES.png",
     "https://i.ibb.co/k2NVb3gj/ORDER-21-22-09-2026.png",
     "https://i.ibb.co/1YyJrt8q/DEATH-PENALTY.png", 
-    "https://i.ibb.co/KpZSDQVR/LEGAL-EXECUTIONS-DEATH-PENALTY-KILL-HER-KILL-HIM.png", 
+    "https://i.ibb.co/n8Z8WnYm/LETHAL-ACTION.png", 
     "https://i.ibb.co/bRMRZV3s/PI220.png",
     "https://i.ibb.co/LDV6zTg3/NEXUS-220-XYZ-ATMOS.png",
     "https://i.ibb.co/NgLB8Mzq/PI220.png",
