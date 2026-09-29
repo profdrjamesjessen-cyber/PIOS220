@@ -51,6 +51,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/mCyDL3Cy/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/5XVNrJJw/THE-PI220.png",
           "https://i.ibb.co/RkB1tgnB/PROF-DSC-JESSE-JESSEN.png",
+          "https://i.ibb.co/jPK8qrtr/PROF-DSC-AND-PHD-DIE-FASTER-ZORRA.png",
      
      
      
