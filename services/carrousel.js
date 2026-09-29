@@ -10,10 +10,8 @@ const PI220_CAROUSEL = {
 
   images: [
 
-          "https://i.ibb.co/h1JN1ymh/PROF-DSC-JESSE-JESSEN.png", 
-          "https://i.ibb.co/0yx0QCg8/LEGAL-EXECUTIONS.png",    
+          "https://i.ibb.co/h1JN1ymh/PROF-DSC-JESSE-JESSEN.png",  
           "https://i.ibb.co/yF5m4Xzd/ALPHA-NATION-VS-ISRAEL-BIOHAZARD-LEGAL-EXECUTIONS-PARASITES-REJECTED.png",
-          "https://i.ibb.co/ychL1dqn/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/ZpmTwVby/THE-PI220.png",
           "https://i.ibb.co/zHbgwyGR/ONGOING-BIOHAZARD.png", 
           "https://i.ibb.co/27DVJwfB/THE-PI220-LEGAL-EXECUTIONS-CABRAS-PUTAS.png",
