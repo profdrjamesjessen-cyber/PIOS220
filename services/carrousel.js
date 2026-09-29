@@ -11,12 +11,10 @@ const PI220_CAROUSEL = {
   images: [
 
 
-          "https://i.ibb.co/yc1sDR43/THE-PI220-LEGAL-EXECUTIONS.png",    
-          "https://i.ibb.co/27DVJwfB/THE-PI220-LEGAL-EXECUTIONS-CABRAS-PUTAS.png",
-          "https://i.ibb.co/Mkdm0XyT/ONGOING.png",
           "https://i.ibb.co/1YYT7bfy/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/RxP4yTr/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/xqyDgK1r/THE-PI220-MEMORANDUM.png",
+          "http://i.ibb.co/FbZ6j8M9/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/7JQsDMC1/72-H-TO-ABANDON-MALLORCA-100.png",
           "https://i.ibb.co/S4jw0j5z/PROF-DSC.png",
           "https://i.ibb.co/8n6WP1qT/PARALLEL-INDUSTRIES-220.png",
