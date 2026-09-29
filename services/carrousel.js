@@ -35,6 +35,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/rRmDHzzh/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/JWSbH7qs/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/Cs0GSKd9/THE-PI220-TOP-SECRET-FILES.png",
+          "https://i.ibb.co/LDHdmKtG/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
           "https://i.ibb.co/fzV6NmqN/THE-PI220-PORTFOLIO-WARCRAFT-2-4-NO-CROSS-CONTAMINATION.png",
           "https://i.ibb.co/Txh0cntn/THE-PI220-PORTFOLIO-WARCRAFT-1-4-INDEPENDENT-NO-CROSS-CONTAMINATION.png",
