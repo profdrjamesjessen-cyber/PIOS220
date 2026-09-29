@@ -13,6 +13,7 @@ const PI220_CAROUSEL = {
 
          
           "https://i.ibb.co/RGmf4qX2/PROF-DSC.png",
+          "https://i.ibb.co/LXZ34fg8/SIGHT-AND-OSOK-KILL-HER.png",
           "https://i.ibb.co/vCJxB5LX/THE-PI220.png", 
           "https://i.ibb.co/HpnqhzPT/PROF-DSC.png", 
           "https://i.ibb.co/TBKCCJnL/PROF-DSC-JESSE-JESSEN.png", 
