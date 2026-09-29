@@ -16,6 +16,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/RxP4yTr/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/xqyDgK1r/THE-PI220-MEMORANDUM.png",
           "https://i.ibb.co/7JQsDMC1/72-H-TO-ABANDON-MALLORCA-100.png",
+          "https://i.ibb.co/S4jw0j5z/PROF-DSC.png",
           "https://i.ibb.co/8n6WP1qT/PARALLEL-INDUSTRIES-220.png",
           "https://i.ibb.co/XrQxpQjq/PROF-DSC.png",
           "https://i.ibb.co/rGNF2W8f/PROF-DSC-JESSE-JESSEN.jpg",
