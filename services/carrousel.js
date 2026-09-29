@@ -15,6 +15,7 @@ const PI220_CAROUSEL = {
          
           "https://i.ibb.co/h1JN1ymh/PROF-DSC-JESSE-JESSEN.png",  
           "https://i.ibb.co/zVp41shf/PROF-DSC.png",
+          "https://i.ibb.co/zHs5srgP/PROF-DSC.png", 
           "https://i.ibb.co/yF5m4Xzd/ALPHA-NATION-VS-ISRAEL-BIOHAZARD-LEGAL-EXECUTIONS-PARASITES-REJECTED.png",
           "https://i.ibb.co/V0bPWsHx/KILL-HER-KILL-HIM.png",
           "https://i.ibb.co/jv0h132d/PROF-DSC-JESSE-JESSEN.png",
