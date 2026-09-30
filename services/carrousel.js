@@ -17,6 +17,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/Jjh2m2MV/WORLD-WAR-III-LEGAL-EXECUTIONS-THE-BRITISH.png", 
           "https://i.ibb.co/8gnCc6xR/30-MINUTES-30-SECONDS-EXECUTE-THEM-ALL-KILL-THEM-SLOW.png", 
           "https://i.ibb.co/Qv3v1DKK/WORLD-WAR-III-LEGAL-EXECUTIONS-SPECIAL-OPERATIONS.png", 
+          "https://i.ibb.co/gx97KWH/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/vCJxB5LX/THE-PI220.png", 
           "https://i.ibb.co/HpnqhzPT/PROF-DSC.png", 
           "https://i.ibb.co/TBKCCJnL/PROF-DSC-JESSE-JESSEN.png", 
