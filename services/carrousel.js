@@ -18,6 +18,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/nh0PYpP/WORLD-WAR-III-LEGAL-EXECUTIONS-KILL-HER-ALWAYS.png", 
           "https://i.ibb.co/Y7mdXnxm/DEATH-PENALTY.png", 
           "https://i.ibb.co/TD20CmT0/LETHAL-ACTION.png", 
+          "https://i.ibb.co/wZmZ4Rpz/SPAIN-KILL-THE-KING-30-30-KILL-THE-QUEEN-ASTURIANA-PUTA.jpg", 
           "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
           "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
           "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
