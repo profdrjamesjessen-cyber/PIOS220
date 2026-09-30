@@ -12,7 +12,7 @@ const PI220_CAROUSEL = {
 
 
      
-          "https://i.ibb.co/JWg3FLCk/WORLD-WAR-III-LEGAL-EXECUTIONS-MATA-A-ESA-PUTA-ZORRA-DE-MIERDA.png", 
+          "https://i.ibb.co/JWg3FLCk/WORLD-WAR-III-LEGAL-EXECUTIONS-MATA-A-ESA-PUTA-ZORRA-DE-MIERDA.png 
           "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
           "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/RGmf4qX2/PROF-DSC.png",
