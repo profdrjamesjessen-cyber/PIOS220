@@ -22,6 +22,7 @@ const PI220_CAROUSEL = {
 ============================================= */
      
           "https://i.ibb.co/LD7wx6rs/LEGAL-EXECUTIONS.png",
+          "https://i.ibb.co/VWW05JLL/PROF-DSC-JESSE-JESSEN.png", 
 
 /* ===========================================
     OTHER NEWS
@@ -31,7 +32,6 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
           "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/RGmf4qX2/PROF-DSC.png",
-          "https://i.ibb.co/VWW05JLL/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/d4hmjpQL/PROF-DSC.png", 
           "https://i.ibb.co/vCJxB5LX/THE-PI220.png", 
           "https://i.ibb.co/HpnqhzPT/PROF-DSC.png", 
