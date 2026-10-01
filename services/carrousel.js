@@ -18,8 +18,14 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/SDFZmnPF/PARALLELMAN.png", 
      
 /* ===========================================
-    NEWS
+    TOP NEWS
 ============================================= */
+     
+          "https://i.ibb.co/LD7wx6rs/LEGAL-EXECUTIONS.png",
+
+/* ===========================================
+    OTHER NEWS
+============================================= */     
      
           "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
           "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
