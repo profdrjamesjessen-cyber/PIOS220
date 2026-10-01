@@ -10,18 +10,17 @@ const PI220_CAROUSEL = {
 
   images: [
 
-
-
+/* ===========================================
+    INTRO
+============================================= */
+     
           "https://i.ibb.co/wbhh8LT/PROF-DSC.png", 
           "https://i.ibb.co/SDFZmnPF/PARALLELMAN.png", 
-          "https://i.ibb.co/0RvMZKvC/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
-          "https://i.ibb.co/qvH888F/WORLD-WAR-III-LEGAL-EXECUTIONS-KILL-HER-KILL-HIM.png", 
-          "https://i.ibb.co/LhNxrwnj/WORLD-WAR-III-DEATH-PENALTY.png", 
-          "https://i.ibb.co/tTbpFF58/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
-          "https://i.ibb.co/nh0PYpP/WORLD-WAR-III-LEGAL-EXECUTIONS-KILL-HER-ALWAYS.png", 
-          "https://i.ibb.co/Y7mdXnxm/DEATH-PENALTY.png", 
-          "https://i.ibb.co/TD20CmT0/LETHAL-ACTION.png", 
-          "https://i.ibb.co/wZmZ4Rpz/SPAIN-KILL-THE-KING-30-30-KILL-THE-QUEEN-ASTURIANA-PUTA.jpg", 
+     
+/* ===========================================
+    NEWS
+============================================= */
+     
           "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
           "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
           "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
@@ -52,6 +51,11 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/W4BmFyQK/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/5xSVqHGm/PROF-D-SC-JESSE-JESSEN.jpg",
           "https://i.ibb.co/TxH8GPRZ/Prof-D-Sc-Jesse-Jessen.jpg",
+     
+/* ===========================================
+    COMIC SECTION
+============================================= */
+     
           "https://i.ibb.co/chs6WbB7/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/mrKmddB6/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/fdwkzTy7/THE-PI220-TOP-SECRET-FILES.png",
@@ -64,6 +68,11 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/Cs0GSKd9/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/LDHdmKtG/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/k66Z7kds/THE-PI220-TOP-SECRET-FILES.png",
+     
+/* ===========================================
+    PARALLEL INDUSTRIES 220
+============================================= */
+     
           "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
           "https://i.ibb.co/fzV6NmqN/THE-PI220-PORTFOLIO-WARCRAFT-2-4-NO-CROSS-CONTAMINATION.png",
           "https://i.ibb.co/Txh0cntn/THE-PI220-PORTFOLIO-WARCRAFT-1-4-INDEPENDENT-NO-CROSS-CONTAMINATION.png",
