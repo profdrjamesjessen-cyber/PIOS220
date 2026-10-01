@@ -25,7 +25,8 @@ const PI220_CAROUSEL = {
 /* ===========================================
     TOP NEWS
 ============================================= */
-     
+
+          "https://i.ibb.co/G436b0bg/ONGOING.png", 
           "https://i.ibb.co/LD7wx6rs/LEGAL-EXECUTIONS.png",
           "https://i.ibb.co/VWW05JLL/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/9kpS6YCR/LETHAL-ACTION.png", 
