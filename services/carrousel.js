@@ -27,10 +27,8 @@ const PI220_CAROUSEL = {
     TOP NEWS
 ============================================= */
 
-          "https://i.ibb.co/xtxNt65S/PI220-THURSDAY-1-OCTOBER-2026.png",
-          "https://i.ibb.co/G436b0bg/ONGOING-KILL-HER-KILL-HIM.png", 
-          "https://i.ibb.co/LD7wx6rs/LEGAL-EXECUTIONS.png",
-
+          "https://i.ibb.co/0H25hmP/THE-DIRECTORATE.png", 
+     
 /* ===========================================
     OTHER NEWS
 ============================================= */     
