@@ -26,18 +26,13 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/wbhh8LT/PROF-DSC.png", 
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/26713829c5d0cb8d3afb0c07dd4941f353b99129/blog/PORTFOLIO%20220.png",
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/26713829c5d0cb8d3afb0c07dd4941f353b99129/blog/PORTFOLIO.png",
-          "https://i.ibb.co/B2jQD5TT/SHOOT-TO-KILL.jpg"
+         
      
 /* ===========================================
     TOP NEWS
 ============================================= */
 
-          "https://i.ibb.co/VcMZZRky/MISSION-CONTINUES.jpg",
-          "https://i.ibb.co/5WNDYRcd/LETHAL-ACTION-MASS-EXECUTIONS.png", 
-          "https://i.ibb.co/NgZrWzw2/LEGAL-EXECUTIONS.png", 
-          "https://i.ibb.co/NnfH0WYr/PRIME-TIME-EXECUTIONS.png",      
-          "https://i.ibb.co/yzybbRK/THE-DIRECTORATE.png", 
-          "https://i.ibb.co/9HFPyH3G/THE-DIRECTORATE.png", 
+  
      
 /* ===========================================
     OTHER NEWS
