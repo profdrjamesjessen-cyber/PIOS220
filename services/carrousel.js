@@ -27,7 +27,8 @@ const PI220_CAROUSEL = {
 /* ===========================================
     TOP NEWS
 ============================================= */
- 
+
+          "https://i.ibb.co/NnfH0WYr/PRIME-TIME-EXECUTIONS.png",      
           "https://i.ibb.co/yzybbRK/THE-DIRECTORATE.png", 
           "https://i.ibb.co/9HFPyH3G/THE-DIRECTORATE.png", 
      
