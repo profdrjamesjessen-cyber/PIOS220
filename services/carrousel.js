@@ -31,6 +31,7 @@ const PI220_CAROUSEL = {
     TOP NEWS
 ============================================= */
 
+          "https://i.ibb.co/5WNDYRcd/LETHAL-ACTION-MASS-EXECUTIONS.png", 
           "https://i.ibb.co/NgZrWzw2/LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/NnfH0WYr/PRIME-TIME-EXECUTIONS.png",      
           "https://i.ibb.co/yzybbRK/THE-DIRECTORATE.png", 
