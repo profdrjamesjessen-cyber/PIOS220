@@ -16,6 +16,7 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+     
           "https://i.ibb.co/dJ5nQ1gS/THE-PI220.png", 
           "https://i.ibb.co/pBWFc3r0/THE-PI220-TOP-SECRET-FILES.png",     
           "https://i.ibb.co/wbhh8LT/PROF-DSC.png", 
@@ -31,7 +32,7 @@ const PI220_CAROUSEL = {
     TOP NEWS
 ============================================= */
 
-          "https://i.ibb.co/y35whL8/THE-DIRECTORATE.png",      
+          "https://i.ibb.co/VcMZZRky/MISSION-CONTINUES.jpg",
           "https://i.ibb.co/5WNDYRcd/LETHAL-ACTION-MASS-EXECUTIONS.png", 
           "https://i.ibb.co/NgZrWzw2/LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/NnfH0WYr/PRIME-TIME-EXECUTIONS.png",      
