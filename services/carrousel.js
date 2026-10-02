@@ -16,6 +16,8 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+     
+          "https://i.ibb.co/pBWFc3r0/THE-PI220-TOP-SECRET-FILES.png",     
           "https://i.ibb.co/wbhh8LT/PROF-DSC.png", 
           "https://i.ibb.co/MX0phJC/PARALLEL-PICTURES-PRESENTS.png",
           "https://i.ibb.co/jZW8JFdv/LIVE-STATUS.png",
@@ -23,11 +25,13 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/wbhh8LT/PROF-DSC.png", 
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/26713829c5d0cb8d3afb0c07dd4941f353b99129/blog/PORTFOLIO%20220.png",
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/26713829c5d0cb8d3afb0c07dd4941f353b99129/blog/PORTFOLIO.png",
+
      
 /* ===========================================
     TOP NEWS
 ============================================= */
 
+     
           "https://i.ibb.co/NnfH0WYr/PRIME-TIME-EXECUTIONS.png",      
           "https://i.ibb.co/yzybbRK/THE-DIRECTORATE.png", 
           "https://i.ibb.co/9HFPyH3G/THE-DIRECTORATE.png", 
@@ -35,6 +39,7 @@ const PI220_CAROUSEL = {
 /* ===========================================
     OTHER NEWS
 ============================================= */     
+
      
           "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
           "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
@@ -66,6 +71,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/5xSVqHGm/PROF-D-SC-JESSE-JESSEN.jpg",
           "https://i.ibb.co/TxH8GPRZ/Prof-D-Sc-Jesse-Jessen.jpg",
      
+     
 /* ===========================================
     COMIC SECTION
 ============================================= */
@@ -83,9 +89,11 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/LDHdmKtG/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/k66Z7kds/THE-PI220-TOP-SECRET-FILES.png",
      
+     
 /* ===========================================
     PARALLEL INDUSTRIES 220
 ============================================= */
+     
      
           "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
           "https://i.ibb.co/fzV6NmqN/THE-PI220-PORTFOLIO-WARCRAFT-2-4-NO-CROSS-CONTAMINATION.png",
