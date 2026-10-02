@@ -28,6 +28,7 @@ const PI220_CAROUSEL = {
 ============================================= */
 
           "https://i.ibb.co/yzybbRK/THE-DIRECTORATE.png", 
+          "https://i.ibb.co/9HFPyH3G/THE-DIRECTORATE.png", 
      
 /* ===========================================
     OTHER NEWS
