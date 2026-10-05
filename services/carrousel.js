@@ -17,6 +17,7 @@ const PI220_CAROUSEL = {
 ============================================= */
 
 
+          "https://i.ibb.co/RkKz45Sv/THE-PI220.png",
           "https://i.ibb.co/RpyYPKS8/PROF-DR-MICHAEL-E-JOSEPH.png",
           "https://i.ibb.co/d06bXmkQ/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/h1JN1ymh/PROF-DSC-JESSE-JESSEN.png",
