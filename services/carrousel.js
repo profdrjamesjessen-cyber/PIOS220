@@ -17,6 +17,7 @@ const PI220_CAROUSEL = {
 ============================================= */
 
 
+          "https://i.ibb.co/x8PfkMPs/PARALLEL-INDUSTRIES-220-ALPHA-NATION.jpg",
           "https://i.ibb.co/k2NGGR33/PI220-MISSION-CONTINUES.png", 
           "https://i.ibb.co/pBpyTztd/PARALLEL-FILMS-PRODUCTIONS-PRESENTS.png",
           "https://i.ibb.co/1w1txQV/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
