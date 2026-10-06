@@ -17,11 +17,10 @@ const PI220_CAROUSEL = {
 ============================================= */
 
 
+          "https://i.ibb.co/B2RZ6tHT/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/x8PfkMPs/PARALLEL-INDUSTRIES-220-ALPHA-NATION.jpg",
           "https://i.ibb.co/k2NGGR33/PI220-MISSION-CONTINUES.png", 
           "https://i.ibb.co/pBpyTztd/PARALLEL-FILMS-PRODUCTIONS-PRESENTS.png",
-          "https://i.ibb.co/YBGt15Cy/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
-          "https://i.ibb.co/1w1txQV/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
           "https://i.ibb.co/B5cMFx6S/PROF-DSC.png",
           "https://i.ibb.co/hJwnPYK5/THE-PI220.png",
           "https://i.ibb.co/RkKz45Sv/THE-PI220.png",
