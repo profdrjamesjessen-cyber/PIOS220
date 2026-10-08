@@ -16,12 +16,7 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
-
-          "https://i.ibb.co/ccPSnY8y/WORLD-WAR-III-LEGAL-EXECUTIONS-DEATH-PENALTY.png", 
-          "https://i.ibb.co/fdXvLhcB/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
-          "https://i.ibb.co/Vcp899B3/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
-          "https://i.ibb.co/99TtY3qf/WORLD-WAR-III-LEGAL-EXECUTIONS-DEATH-PENALTY.png", 
-          "https://i.ibb.co/VWV69g9w/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
+          "https://i.ibb.co/vCH92bNH/LETHAL-PROSECUTION.png",
           "https://i.ibb.co/9z4ShT4/THE-PI220-MASTER-POLICY-FILES.png", 
           "https://i.ibb.co/xtKJJ0gK/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/1GjdjcpX/PROF-DSC-JESSE-JESSEN.png", 
