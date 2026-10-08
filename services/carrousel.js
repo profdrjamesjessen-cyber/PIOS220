@@ -21,6 +21,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/8gLmHcWK/PARALLEL-FILMS-PRODUCTIONS-PRESENT.png",
           "https://i.ibb.co/TxgcRfDn/PI220-MISSION-CONTINUES.png", 
           "https://i.ibb.co/vxstfkzT/THE-PI220.png", 
+          "https://i.ibb.co/V0MtxkpP/PROF-DR-SENTIENT.png",
           "https://i.ibb.co/vCH92bNH/LETHAL-PROSECUTION.png",
           "https://i.ibb.co/9z4ShT4/THE-PI220-MASTER-POLICY-FILES.png", 
           "https://i.ibb.co/xtKJJ0gK/PROF-DSC-JESSE-JESSEN.png",
