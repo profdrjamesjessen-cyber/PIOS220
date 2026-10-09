@@ -17,17 +17,15 @@ const PI220_CAROUSEL = {
 ============================================= */
 
 
-          "https://i.ibb.co/XffdF6x6/WORLD-WAR-III-SPECIAL-OPERATIONS.png", 
+          "https://i.ibb.co/MkK7F3Xf/THE-PROSECUTION.png", 
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/15fb757f46227a5d285fcf39dc389366bb493ab9/blog/THE-PI220-TOP-SECRET-FILES%2011.png",
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/15fb757f46227a5d285fcf39dc389366bb493ab9/blog/THE-PI220-TOP-SECRET-FILES%2022.png",
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/ce0bd1b2d4a3865221c1ac872246d8b273854625/blog/THE-PI220-NEED-FOR-SPEED-OUTRUN.png",    
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/ce0bd1b2d4a3865221c1ac872246d8b273854625/blog/PROF-DSC-JESSE-JESSEN.png", 
-          "https://i.ibb.co/Xx6nZdGM/WORLD-WAR-III-LEGAL-EXECUTIONS-SPECIAL-OPERATIONS.png", 
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/ce0bd1b2d4a3865221c1ac872246d8b273854625/blog/PARALLEL-FILMS-PRODUCTIONS-PRESENT.png",
           "https://i.ibb.co/TxgcRfDn/PI220-MISSION-CONTINUES.png", 
           "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/ce0bd1b2d4a3865221c1ac872246d8b273854625/blog/THE-PI220%2022.png", 
           "https://i.ibb.co/V0MtxkpP/PROF-DR-SENTIENT.png",
-          "https://i.ibb.co/vCH92bNH/LETHAL-PROSECUTION.png",
           "https://i.ibb.co/9z4ShT4/THE-PI220-MASTER-POLICY-FILES.png", 
           "https://i.ibb.co/xtKJJ0gK/PROF-DSC-JESSE-JESSEN.png",
           "https://i.ibb.co/1GjdjcpX/PROF-DSC-JESSE-JESSEN.png", 
