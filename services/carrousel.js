@@ -64,42 +64,12 @@ const PI220_CAROUSEL = {
 ============================================= */     
 
      
-          "https://i.ibb.co/8wDPJ81/THE-PI220-RESEARCH-PROGRAM.png", 
-          "https://i.ibb.co/Jwy2bWZZ/PROF-DSC.png", 
-          "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/RGmf4qX2/PROF-DSC.png",
-          "https://i.ibb.co/d4hmjpQL/PROF-DSC.png", 
-          "https://i.ibb.co/vCJxB5LX/THE-PI220.png", 
-          "https://i.ibb.co/HpnqhzPT/PROF-DSC.png", 
-          "https://i.ibb.co/TBKCCJnL/PROF-DSC-JESSE-JESSEN.png", 
-          "https://i.ibb.co/RTX6cCfr/PROF-DSC-JESSE-JESSEN.png", 
-          "https://i.ibb.co/h1JN1ymh/PROF-DSC-JESSE-JESSEN.png",  
-          "https://i.ibb.co/zVp41shf/PROF-DSC.png",
-          "https://i.ibb.co/zHs5srgP/PROF-DSC.png", 
-          "https://i.ibb.co/jv0h132d/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/ZpmTwVby/THE-PI220.png",
-          "https://i.ibb.co/1YYT7bfy/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/RxP4yTr/PROF-DSC-JESSE-JESSEN.png", 
-          "https://i.ibb.co/xqyDgK1r/THE-PI220-MEMORANDUM.png",
-          "http://i.ibb.co/FbZ6j8M9/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/7JQsDMC1/72-H-TO-ABANDON-MALLORCA-100.png",
-          "https://i.ibb.co/S4jw0j5z/PROF-DSC.png",
-          "https://i.ibb.co/8n6WP1qT/PARALLEL-INDUSTRIES-220.png",
-          "https://i.ibb.co/XrQxpQjq/PROF-DSC.png",
-          "https://i.ibb.co/rGNF2W8f/PROF-DSC-JESSE-JESSEN.jpg",
-          "https://i.ibb.co/LDV6zTg3/NEXUS-220-XYZ-ATMOS.png",
-          "https://i.ibb.co/SFx1nxM/EMAIL-ME-ONLY-IF-SCORE-ABOVE-80-100-NATIVE-SPANISH-LADIES-18-25-ONLY.png",
-          "https://i.ibb.co/RT7NPTkC/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/W4BmFyQK/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/5xSVqHGm/PROF-D-SC-JESSE-JESSEN.jpg",
-          "https://i.ibb.co/TxH8GPRZ/Prof-D-Sc-Jesse-Jessen.jpg",
-     
      
 /* ===========================================
     COMIC SECTION
 ============================================= */
 
-
+          "https://i.ibb.co/ymTRVfFt/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/7t81Wvm2/THE-PI220-TOP-SECRET-FILES.png", 
           "https://i.ibb.co/YTVrCy4Y/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/XZmJqVc5/THE-PI220-TOP-SECRET-FILES.png", 
