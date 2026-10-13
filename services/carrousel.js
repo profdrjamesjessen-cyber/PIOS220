@@ -21,7 +21,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/KxX9QKP1/WORLD-WAR-III-SPECIAL-OPERATIONS-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/x8hF0kD0/I-AM-GONNA-KILL-YOU.png", 
           "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png", 
-          "https://i.ibb.co/pBc5qB9V/PROF-DSC-PROF-PHD.png", 
+          "https://i.ibb.co/4w8Pbp3p/PROF-DSC-PROF-PHD.png", 
           "https://i.ibb.co/8gkysCCY/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/ynbpL6MZ/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/HTwV2cZf/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
