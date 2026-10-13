@@ -18,7 +18,7 @@ const PI220_CAROUSEL = {
 
 
 
-          "https://i.ibb.co/gFPmQCdy/WORLD-WAR-III-LEGAL-EXECUTIONS-DEATH-PENALTY.png",
+          "https://i.ibb.co/Vc74PQDN/WORLD-WAR-III-LEGAL-EXECUTIONS-DEATH-PENALTY.png",
           "https://i.ibb.co/C3FzgmL9/PROF-PHD-EVA-JESSEN.png", 
           "https://i.ibb.co/tw5Rr6jJ/PROF-DSC.png",
           "https://i.ibb.co/WWMSB5h1/MARINA-PORTS-PALMA-DE-MALLORCA.png",
