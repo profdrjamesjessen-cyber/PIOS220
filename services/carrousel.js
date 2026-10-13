@@ -23,6 +23,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/8gkysCCY/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/ynbpL6MZ/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/nM6tGVS1/WORLD-WAR-III-DEATH-PENALTY.png", 
+          "https://i.ibb.co/0jXfBvDT/WORLD-WAR-III-DEATH-PENALTY-KILL-THE-PUTA-AMARILLA-MIERDA-ELON-MUSK.png",
           "https://i.ibb.co/nM6tGVS1/WORLD-WAR-III-DEATH-PENALTY-TE-VAMOS-A-MATAR-ABORTA-ZORRA-ASQUEROSA-PUTA.png",
           "https://i.ibb.co/C3FzgmL9/PROF-PHD-EVA-JESSEN.png", 
           "https://i.ibb.co/tw5Rr6jJ/PROF-DSC.png",
