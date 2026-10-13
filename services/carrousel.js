@@ -16,7 +16,7 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
-
+          "https://i.ibb.co/ynNYnDJf/KILL-HER-KILL-HIM.jpg", 
           "https://i.ibb.co/VpVYcgWc/MASSACRE.png", 
           "https://i.ibb.co/x8hF0kD0/I-AM-GONNA-KILL-YOU.png", 
           "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png", 
