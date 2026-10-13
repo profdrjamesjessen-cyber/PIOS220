@@ -18,7 +18,7 @@ const PI220_CAROUSEL = {
 
 
 
-       
+          "https://i.ibb.co/S4sCpPLx/391-SERVERS-PARALLEL-I-NEWS-GLOBAL-CHANNEL.png", 
           "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png",
           "https://i.ibb.co/Rrc1bwS/WORLD-WAR-III-DESTRUCTION-ZORRA-PUTA.jpg", 
           "https://i.ibb.co/sdpbMNZG/LETHAL-ACTION-MASSACRE.png", 
