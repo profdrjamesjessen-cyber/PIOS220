@@ -16,15 +16,15 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+         
           "https://i.ibb.co/ynNYnDJf/KILL-HER-KILL-HIM.jpg", 
-          "https://i.ibb.co/VpVYcgWc/MASSACRE.png", 
+          "https://i.ibb.co/KxX9QKP1/WORLD-WAR-III-SPECIAL-OPERATIONS-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/x8hF0kD0/I-AM-GONNA-KILL-YOU.png", 
           "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png", 
           "https://i.ibb.co/pBc5qB9V/PROF-DSC-PROF-PHD.png", 
           "https://i.ibb.co/8gkysCCY/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/ynbpL6MZ/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/HTwV2cZf/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
-          "https://i.ibb.co/0jXfBvDT/WORLD-WAR-III-DEATH-PENALTY-KILL-THE-PUTA-AMARILLA-MIERDA-ELON-MUSK.png",
           "https://i.ibb.co/C3FzgmL9/PROF-PHD-EVA-JESSEN.png", 
           "https://i.ibb.co/tw5Rr6jJ/PROF-DSC.png",
           "https://i.ibb.co/WWMSB5h1/MARINA-PORTS-PALMA-DE-MALLORCA.png",
