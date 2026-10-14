@@ -30,7 +30,7 @@ const PI220_CAROUSEL = {
           "https://i.ibb.co/gFQZxzbG/PROF-DSC-JESSE-JESSEN.png", 
           "https://i.ibb.co/LzLHd9Cx/THE-PI220-TOP-SECRET-FILES.png", 
           "https://i.ibb.co/8DXzMCwK/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/zTyPWGvm/THE-PI220-TOP-SECRET-FILES.png"
+          "https://i.ibb.co/zTyPWGvm/THE-PI220-TOP-SECRET-FILES.png",
           "https://i.ibb.co/S4sCpPLx/391-SERVERS-PARALLEL-I-NEWS-GLOBAL-CHANNEL.png", 
           "https://i.ibb.co/XZWMXrFZ/DEATH.png", 
           "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png",
@@ -133,16 +133,7 @@ const PI220_CAROUSEL = {
 ============================================= */
      
      
-          "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
-          "https://i.ibb.co/fzV6NmqN/THE-PI220-PORTFOLIO-WARCRAFT-2-4-NO-CROSS-CONTAMINATION.png",
-          "https://i.ibb.co/Txh0cntn/THE-PI220-PORTFOLIO-WARCRAFT-1-4-INDEPENDENT-NO-CROSS-CONTAMINATION.png",
-          "https://i.ibb.co/3ycC7Z1s/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/RThsrZXG/PROF-DSC-JESSE-JESSEN-POKERSTARS-BLACK-FRIDAY.png",
-          "https://i.ibb.co/N2rhctn6/THE-PI220.png",
-          "https://i.ibb.co/mCyDL3Cy/PROF-DSC-JESSE-JESSEN.png",
-          "https://i.ibb.co/5XVNrJJw/THE-PI220.png",
-          "https://i.ibb.co/RkB1tgnB/PROF-DSC-JESSE-JESSEN.png",
-     
+   
      
      
   ],
