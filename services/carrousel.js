@@ -16,6 +16,27 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+     "https://i.ibb.co/jPmjbMhR/PROF-DSC.png", 
+     "https://i.ibb.co/Txv35kCT/391-SERVERS-PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
+     "https://i.ibb.co/Q32Y7rwJ/THE-PI220-TOP-SECRET-FILES.png",
+     "https://i.ibb.co/RpxdTQC3/THE-PI220-TOP-SECRET-FILES.png",
+     "https://i.ibb.co/PvpDL9Qf/391-SERVERS.png",
+     "https://i.ibb.co/4nB4284F/PI220.png",
+     "https://i.ibb.co/dJ5nQ1gS/THE-PI220.png",
+     "https://i.ibb.co/B2jBD4Hr/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/210ggQM0/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/d06bXmkQ/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/RGGcY7pr/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/r2McwxDb/PARALLEL-PICTURES-220-PRESENT-PARALLELMAN.png",
+     "https://i.ibb.co/XrQxpQjq/PROF-DSC.png", 
+     "https://i.ibb.co/FqL1qKDN/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/zVp41shf/PROF-DSC.png",
+     "https://i.ibb.co/zHs5srgP/PROF-DSC.png",
+     "https://i.ibb.co/TBKCCJnL/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/HpnqhzPT/PROF-DSC.png",
+     "https://i.ibb.co/HyDG0g5/THE-PI220-RESEARCH-PROGRAM.png",
+     "https://i.ibb.co/MX0phJC/PARALLEL-PICTURES-PRESENTS.png",
+     "https://i.ibb.co/FLcxsq9f/PI220-MISSION-CONTINUES.png",
      
 /* ===========================================
     TOP NEWS
