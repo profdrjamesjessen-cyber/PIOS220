@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
           "http://i.ibb.co/PvpDL9Qf/391-SERVERS.png",
+          "https://i.ibb.co/4nB4284F/PI220.png", 
           "https://i.ibb.co/jk5YydcT/WORLD-WAR-III-OSOK.jpg", 
           "https://i.ibb.co/Fq8Nj6Yh/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
           "https://i.ibb.co/Qts590k/30-MINUTES-EMAIL.png", 
