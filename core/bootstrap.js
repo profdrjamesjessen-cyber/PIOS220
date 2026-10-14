@@ -264,6 +264,8 @@ await loadPlugins();
   await wait(127);
 
   logSystem("STATUS : EXCEPTIONAL");
+
+  logSystem("https://jessejamesjessen.imgbb.com/")
        
   
 });
