@@ -17,6 +17,7 @@ const PI220_CAROUSEL = {
 ============================================= */
 
      "https://i.ibb.co/ZRK1JjQb/391.png",
+     "https://i.ibb.co/GvjFTG6N/PI220-ALPHA-NATION.png", 
      "https://i.ibb.co/ksVqSdWX/ONGOING.jpg",
      "https://i.ibb.co/hPyxXcz/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/5hyZ05qn/PROF-DSC-AND-PROF-PHD.png",
@@ -25,7 +26,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/vv6Xk3xf/image.png",
      "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png", 
      "https://i.ibb.co/v6NgWfpg/prof-dsc-and-prof-phd.png", 
-     "https://i.ibb.co/ym9t4j4M/SPECIAL-OPERATIONS.jpg",
      "https://i.ibb.co/PsxtnjFb/WORLD-WAR-III-KILL-THE-KING.png",
      "https://i.ibb.co/YFCThq1K/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
      "https://i.ibb.co/Txv35kCT/391-SERVERS-PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
