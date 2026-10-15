@@ -16,7 +16,9 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+     
      "https://i.ibb.co/ZRK1JjQb/391.png",
+     "https://i.ibb.co/rf63LZRJ/PROF-DSC.png",
      "https://i.ibb.co/GvZVq1jZ/THE-PI220-ALPHA-NATION.png", 
      "https://i.ibb.co/FL8MPBpp/EMAIL-ONLY.png"
      "https://i.ibb.co/ksVqSdWX/ONGOING.jpg",
@@ -65,27 +67,6 @@ const PI220_CAROUSEL = {
 /* ===========================================
     COMIC SECTION
 ============================================= */
-
-
-     
-          "https://i.ibb.co/ymTRVfFt/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/m59yfrvW/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/7t81Wvm2/THE-PI220-TOP-SECRET-FILES.png", 
-          "https://i.ibb.co/YTVrCy4Y/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/XZmJqVc5/THE-PI220-TOP-SECRET-FILES.png", 
-          "https://i.ibb.co/FbWHgQyM/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/chs6WbB7/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/mrKmddB6/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/fdwkzTy7/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/gLTqnyw1/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/m3cWCF8/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/XrWGsFcQ/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/V0zt0fHc/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/rRmDHzzh/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/JWSbH7qs/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/Cs0GSKd9/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/LDHdmKtG/THE-PI220-TOP-SECRET-FILES.png",
-          "https://i.ibb.co/k66Z7kds/THE-PI220-TOP-SECRET-FILES.png",
          
      
      
