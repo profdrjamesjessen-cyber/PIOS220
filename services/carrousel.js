@@ -24,6 +24,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/vv6Xk3xf/image.png",
      "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png", 
      "https://i.ibb.co/v6NgWfpg/prof-dsc-and-prof-phd.png", 
+     "https://i.ibb.co/B2XK22TV/SPECIAL-OPERATIONS.png", 
      "https://i.ibb.co/Q3nyVr93/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
      "https://i.ibb.co/dJ1RgD5N/WORLD-WAR-III-SPECIAL-OPERATIONS.png",
      "https://i.ibb.co/YFCThq1K/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
