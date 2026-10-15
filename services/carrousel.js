@@ -21,6 +21,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/hPyxXcz/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/5hyZ05qn/PROF-DSC-AND-PROF-PHD.png",
      "https://i.ibb.co/4ZvdcCgB/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
+     "https://i.ibb.co/354KGNYk/391-https-profdrjamesjessen-cyber-github-io-PIOS220-391.png",
      "https://i.ibb.co/vv6Xk3xf/image.png",
      "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png", 
      "https://i.ibb.co/v6NgWfpg/prof-dsc-and-prof-phd.png", 
