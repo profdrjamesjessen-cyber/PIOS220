@@ -265,7 +265,7 @@ await loadPlugins();
 
   logSystem("STATUS : EXCEPTIONAL");
 
-  logSystem("https://jessejamesjessen.imgbb.com/")
+  logSystem("IMPORTED : https://jessejamesjessen.imgbb.com/")
        
   
 });
