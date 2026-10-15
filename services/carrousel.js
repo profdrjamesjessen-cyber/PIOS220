@@ -17,8 +17,10 @@ const PI220_CAROUSEL = {
 ============================================= */
 
      "https://i.ibb.co/ZRK1JjQb/391.png",
-     "https://i.ibb.co/GvjFTG6N/PI220-ALPHA-NATION.png", 
+     "https://i.ibb.co/GvZVq1jZ/THE-PI220-ALPHA-NATION.png", 
+     "https://i.ibb.co/FL8MPBpp/EMAIL-ONLY.png"
      "https://i.ibb.co/ksVqSdWX/ONGOING.jpg",
+     "https://i.ibb.co/GvjFTG6N/PI220-ALPHA-NATION.png", 
      "https://i.ibb.co/hPyxXcz/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/5hyZ05qn/PROF-DSC-AND-PROF-PHD.png",
      "https://i.ibb.co/4ZvdcCgB/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
