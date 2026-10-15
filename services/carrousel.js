@@ -20,6 +20,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/ZRK1JjQb/391.png",
      "https://i.ibb.co/rf63LZRJ/PROF-DSC.png",
      "https://i.ibb.co/GvZVq1jZ/THE-PI220-ALPHA-NATION.png", 
+     "https://i.ibb.co/ZzKPZntP/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/FL8MPBpp/EMAIL-ONLY.png"
      "https://i.ibb.co/ksVqSdWX/ONGOING.jpg",
      "https://i.ibb.co/GvjFTG6N/PI220-ALPHA-NATION.png", 
