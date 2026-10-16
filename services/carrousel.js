@@ -30,7 +30,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/Rk8yBtBZ/Prof-D-Sc-Jesse-Jessen.png",
      "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png",
      "https://i.ibb.co/Lzp7GDqs/THE-PI220-391-SERVERS.png", 
-     "https://i.ibb.co/21KsHFCB/ONGOING.png", 
      "https://i.ibb.co/xSWVfzF0/391-https-profdrjamesjessen-cyber-github-io-PIOS220-391.png",
      "https://i.ibb.co/7tXThDV3/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/yc0c83M5/ROLLING.png",
