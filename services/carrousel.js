@@ -33,7 +33,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/hPyxXcz/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/5hyZ05qn/PROF-DSC-AND-PROF-PHD.png",
      "https://i.ibb.co/4ZvdcCgB/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
-     "https://i.ibb.co/PvpDL9Qf/391-SERVERS.png";
+     "https://i.ibb.co/PvpDL9Qf/391-SERVERS.png",
      "https://i.ibb.co/LzLHd9Cx/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/zTyPWGvm/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/8DXzMCwK/THE-PI220-TOP-SECRET-FILES.png",
