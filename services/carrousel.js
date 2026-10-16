@@ -26,6 +26,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/VcRSwxCr/Nexus-220-XYZ.png",
      "https://i.ibb.co/8DHjMRkt/Nexus-220-XYZ.png",
      "https://i.ibb.co/YFXD90Xn/NEXUS-220-XYZ.png",
+     "https://i.ibb.co/Rk8yBtBZ/Prof-D-Sc-Jesse-Jessen.png",
      "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png",
      "https://i.ibb.co/Lzp7GDqs/THE-PI220-391-SERVERS.png", 
      "https://i.ibb.co/21KsHFCB/ONGOING.png", 
