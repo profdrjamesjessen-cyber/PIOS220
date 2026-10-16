@@ -23,6 +23,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/TxgcRfDn/PI220-MISSION-CONTINUES.png",
      "https://i.ibb.co/jZhJ2NT2/I-AM-GONNA-KILL-YOU.png",
      "https://i.ibb.co/60bFhvc1/MARINA-PORTS-PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/VcRSwxCr/Nexus-220-XYZ.png",
      "https://i.ibb.co/m5XBMQqw/PROF-DSC-JESSE-JESSEN-PROF-PHD-EVA-JESSEN.png",
      "https://i.ibb.co/Lzp7GDqs/THE-PI220-391-SERVERS.png", 
      "https://i.ibb.co/21KsHFCB/ONGOING.png", 
