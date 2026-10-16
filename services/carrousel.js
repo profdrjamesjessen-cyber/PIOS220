@@ -16,6 +16,8 @@ const PI220_CAROUSEL = {
     INTRO
 ============================================= */
 
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/04a8625d71e6584616cc067b621b8b59c3dd0df6/blog/Captura%20de%20pantalla%202026-10-16%20134236.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/04a8625d71e6584616cc067b621b8b59c3dd0df6/blog/Captura%20de%20pantalla%202026-10-16%20134236.png",
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/yc0c83M5/ROLLING.png", 
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/04a8625d71e6584616cc067b621b8b59c3dd0df6/blog/Captura%20de%20pantalla%202026-10-16%20134236.png",
