@@ -18,6 +18,7 @@ const PI220_CAROUSEL = {
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/yc0c83M5/ROLLING.png", 
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/04a8625d71e6584616cc067b621b8b59c3dd0df6/blog/Captura%20de%20pantalla%202026-10-16%20134236.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/02197f9381a2328d39669148dca84f3ae6181201/blog/PROF%20DSC%20MARINA%20PORTS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/7ebe90dc6ecbdc82330736d2b091af92b679cb98/blog/PROF%20DSC.png",
      "https://i.ibb.co/ZRK1JjQb/391.png",
