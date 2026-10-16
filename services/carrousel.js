@@ -19,10 +19,9 @@ const PI220_CAROUSEL = {
 
      "https://i.ibb.co/Lzp7GDqs/THE-PI220-391-SERVERS.png",
      "https://i.ibb.co/Lzp7GDqs/THE-PI220-391-SERVERS.png",
-     "https://i.ibb.co/xSWVfzF0/ONGOING.png",
+     "https://i.ibb.co/xSWVfzF0/391-https-profdrjamesjessen-cyber-github-io-PIOS220-391.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/c2dbad6b3272354fe01793a1315c01380b55e008/blog/LETHAL%20ACTION%20-%20LEGAL%20EXECUTIONS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/c2dbad6b3272354fe01793a1315c01380b55e008/blog/LETHAL%20ACTION%20-%20LEGAL%20EXECUTIONS.png",
-     "https://i.ibb.co/nMzQrBh4/WORLD-WAR-III-LETHA-PROSECUTION-PAY-OR-DIE.png",
      "https://i.ibb.co/9mxxBFTQ/OPERATION-KILLSTONE.png", 
      "https://i.ibb.co/7tXThDV3/PROF-DSC-JESSE-JESSEN.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/04a8625d71e6584616cc067b621b8b59c3dd0df6/blog/Captura%20de%20pantalla%202026-10-16%20134236.png",
