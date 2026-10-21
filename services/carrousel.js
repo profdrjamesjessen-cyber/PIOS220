@@ -25,6 +25,8 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/qFP4K0W6/MARINA-PORTS.png",
      "https://i.ibb.co/1YXvws5m/The-Band.png",
      "https://i.ibb.co/1fhhx75m/THE-PI220-TACTICAL-LINE.png",
+     "https://i.ibb.co/ntPdYgJ/THE-PI220-TACTICAL-LINE.png",
+     "https://i.ibb.co/pvKNc2t7/THE-PI220-TACTICAL-LINE.png",
      "https://i.ibb.co/MxWM21jQ/Prof-Dsc.png",
      "https://i.ibb.co/jvrC3b6b/Prof-Dsc.png",
      "https://i.ibb.co/HDH53Gvq/The-Band.png",
