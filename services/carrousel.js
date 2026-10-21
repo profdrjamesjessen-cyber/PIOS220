@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/HDH53Gvq/The-Band.png",
      "https://i.ibb.co/XhqtSw9/MARINA-PORTS.png",
      "https://i.ibb.co/YTNm3Vv3/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/sDK9q0D/JANUARY-OCTOBER-2026-BALANCE-REPORT.png", 
@@ -30,7 +31,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/pvKNc2t7/THE-PI220-TACTICAL-LINE.png",
      "https://i.ibb.co/MxWM21jQ/Prof-Dsc.png",
      "https://i.ibb.co/jvrC3b6b/Prof-Dsc.png",
-     "https://i.ibb.co/HDH53Gvq/The-Band.png",
      "https://i.ibb.co/bjfjYR9j/DONALD-TRUMP-AND-CO-LEGAL-EXECUTIONS.png", 
      "https://i.ibb.co/27v1tQdV/THE-PI220-LINE.png", 
      "https://i.ibb.co/fGFMvTtV/PROF-DR-JESSE-JESSEN-PARALLEL-INDUSTRIES-220-LEGAL-REMEDIES.png",
