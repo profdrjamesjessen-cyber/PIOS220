@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/whr8JqQd/WORLD-WAR-III-SPECIAL-OPERATIONS-MEN-WOMEN-CHILDREN-KILL-KILL.png", 
      "https://i.ibb.co/WWxrHS4D/EVA-MAGAZINE-001-CHASED-EDITION.png",
      "https://i.ibb.co/FbYwFfkz/EVA-MAGAZINE-CHASED-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/BKrQM3kW/EVA-MAGAZINE-MARINA-PORTS-FULL-ARTICLE-391-SERVERS.png",
