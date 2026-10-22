@@ -22,6 +22,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/qYdWwBCm/391-629-451-MASSACRE.png", 
      "https://i.ibb.co/8nrSXNTT/WORLD-WAR-III-SPECIAL-OPERATIONS.png", 
      "https://i.ibb.co/whr8JqQd/WORLD-WAR-III-SPECIAL-OPERATIONS-MEN-WOMEN-CHILDREN-KILL-KILL.png", 
+     "https://i.ibb.co/7NNT7hS8/WORLD-WAR-III-SPECIAL-OPERATIONS.png", 
      "https://i.ibb.co/WWxrHS4D/EVA-MAGAZINE-001-CHASED-EDITION.png",
      "https://i.ibb.co/FbYwFfkz/EVA-MAGAZINE-CHASED-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/BKrQM3kW/EVA-MAGAZINE-MARINA-PORTS-FULL-ARTICLE-391-SERVERS.png",
