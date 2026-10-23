@@ -25,6 +25,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/6cFkRw02/POST-AMERICAN-WORLD-LEGAL-EXECUTIONS-KILL-EM-ALL.png",
      "https://i.ibb.co/C3ZFntg7/MY-PEOPLE.png", 
      "https://i.ibb.co/5gxjmX2r/GOODBYE-USA-MANIPULATION.png",
+     "https://i.ibb.co/tM7FxT5w/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
      "https://i.ibb.co/nMDYNNtD/WORLD-WAR-III-SPECIAL-OPERATIONS.png",
      "https://i.ibb.co/M52QDd8P/PARALLEL-I-NEWS.png", 
      "https://i.ibb.co/yBy7NQzz/THE-PI220-LINE.png", 
