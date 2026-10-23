@@ -20,7 +20,7 @@ const PI220_CAROUSEL = {
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/M52QDd8P/PARALLEL-I-NEWS.png", 
-     "https://i.ibb.co/1t0zpcz0/PARALLEL-INDUSTRIES-220.png", 
+     "https://i.ibb.co/qLvZPGFC/WORLD-WAR-III-LEGAL-EXECUTIONS.png", 
      "https://i.ibb.co/cXckGxHF/PI220-TACTICAL-LINE.png", 
      "https://i.ibb.co/1YLN3Qpv/PARALLEL-I-NEWS.png", 
      "https://i.ibb.co/yczQJg2B/THE-PI220-TACTICAL-LINE.png",
