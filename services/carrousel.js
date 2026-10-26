@@ -23,6 +23,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/DftWCnwy/PARALLEL-I-NEWS.png",
      "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/4g3pNt6H/THE-PI220-TOP-SECRET-FILES.png",
+     "https://i.ibb.co/8gSqDttf/SOLIDARIDAD.png",
      "https://i.ibb.co/nMR3FK5R/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/x8GJBFDh/PROF-DSC-JESSE-JESSEN-PROF-DR-SENTIENT.png",
      "https://i.ibb.co/SDRTfHgZ/PROF-DSC-JESSE-JESSEN-PROF-DR-SENTIENT.png",
