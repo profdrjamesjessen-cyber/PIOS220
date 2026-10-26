@@ -26,6 +26,8 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/9Hnhwm2v/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/C3fqf3DX/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/fVcHfntf/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
+     "https://i.ibb.co/Rk5jbXWc/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
+     "https://i.ibb.co/1GPsf5bM/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/4g3pNt6H/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/mFG8NWsh/CRYSTAL-PALACE-OF-PALMA.png",
