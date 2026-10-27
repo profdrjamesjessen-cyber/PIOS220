@@ -19,7 +19,9 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/xq6DZb2D/MEMORANDUM.png",
      "https://i.ibb.co/Pp5BNm4/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
+     "https://i.ibb.co/r2GV407g/THE-PI220.png",
      "https://i.ibb.co/HfnqdK3j/WORLD-WAR-III.png",
      "https://i.ibb.co/MyPPVT0C/WORLD-WAR-III-NUCLEAR-WAR.png",
      "https://i.ibb.co/V0qQHbxR/WORLD-WAR-III.png",
