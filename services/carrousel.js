@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/8gjyqqcK/ONGOING.png",
      "https://i.ibb.co/671TST9b/ANNIHILATE-OBLITERATE-SPAIN-KILL-EVERY-FUCKING-WOMEN-MEN-AND-CHILDREN.png",
      "https://i.ibb.co/MkV5hdKT/WORLD-WAR-III-LEGAL-EXECUTIONS.png",
      "https://i.ibb.co/CKNxM9nq/UPDATE-OUTRUN.png",
