@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/tpb1Zh9p/PARALLEL-INDUSTRIES-220.png",
+     "https://i.ibb.co/mFSLLzVc/MALDITO-PARASITO-PUTO-PLASTICO-ADORNO-HOMBRE-MARICON-DE-MIERDA.jpg",
      "https://i.ibb.co/xq6DZb2D/MEMORANDUM.png",
      "https://i.ibb.co/Pp5BNm4/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
      "https://i.ibb.co/r2GV407g/THE-PI220.png",
