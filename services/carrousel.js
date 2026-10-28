@@ -19,6 +19,8 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://i.ibb.co/FkGNsdNC/WORLD-WAR-III-LEGAL-EXECUTIONS-MARICONES-HIJOS-DE-PUTA.png",
+     "https://i.ibb.co/prxLRVsH/WORLD-WAR-III-LEGAL-EXCUTIONS-SPECIAL-OPERATIONS-POINT-BLANK.png",
      "https://i.ibb.co/212vw9Kr/SF1-NEO-CORE-NODE-AFATX10-V2-PHOTONIC-REACTOR.png",
      "https://i.ibb.co/hF8LDxjh/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
      "https://i.ibb.co/mFSLLzVc/MALDITO-PARASITO-PUTO-PLASTICO-ADORNO-HOMBRE-MARICON-DE-MIERDA.jpg",
