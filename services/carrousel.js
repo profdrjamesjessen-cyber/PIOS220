@@ -23,6 +23,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/dsR7zB7d/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/LdH1Ytjk/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/DfVcPvtD/ONGOING.png",
+     "https://i.ibb.co/rG7XjfhY/MATANZA-KILL-EM-ALL.png",
      "https://i.ibb.co/xTL3STq/EXECUTION-MASSIVE-DEATH.png",
      "https://i.ibb.co/FkGNsdNC/WORLD-WAR-III-LEGAL-EXECUTIONS-MARICONES-HIJOS-DE-PUTA.png",
      "https://i.ibb.co/prxLRVsH/WORLD-WAR-III-LEGAL-EXCUTIONS-SPECIAL-OPERATIONS-POINT-BLANK.png",
