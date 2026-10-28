@@ -22,6 +22,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/tpzW2WNP/ALPHA-NATION-STARFORCE-WORLD-WAR-III.png",
      "https://i.ibb.co/pBXqB6hm/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/dsR7zB7d/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
+     "https://i.ibb.co/wFQNjtSW/MATANZA-DE-CERDOS.png",
      "https://i.ibb.co/LdH1Ytjk/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/DfVcPvtD/ONGOING.png",
      "https://i.ibb.co/rG7XjfhY/MATANZA-KILL-EM-ALL.png",
