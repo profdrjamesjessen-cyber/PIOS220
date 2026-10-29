@@ -291,28 +291,23 @@ await loadPlugins();
     "Play or pause the PI220 soundtrack"
   );
 
-  Object.assign(musicButton.style, {
+ Object.assign(musicButton.style, {
   position: "fixed",
   right: "16px",
   bottom: "16px",
   zIndex: "99999",
-
-  padding: "8px 11px",
-  background: "rgba(5, 15, 26, 0.92)",
-  color: "#00e5ff",
-  border: "1px solid rgba(0, 229, 255, 0.65)",
-  borderRadius: "5px",
-
-  fontFamily: "monospace",
+  padding: "7px 10px",
+  background: "rgba(7, 10, 16, 0.94)",
+  color: "#39d98a",
+  border: "1px solid #39d98a",
+  borderRadius: "4px",
+  fontFamily: "ui-monospace, monospace",
   fontSize: "11px",
   letterSpacing: "0.5px",
-  lineHeight: "1.4",
-
   cursor: "pointer",
-  boxShadow: "0 0 8px rgba(0, 229, 255, 0.12)",
-  backdropFilter: "blur(6px)",
+  boxShadow: "0 0 7px rgba(57, 217, 138, 0.12)",
   transition: "all 0.2s ease"
-    
+   
 });
 
   document.body.appendChild(musicButton);
