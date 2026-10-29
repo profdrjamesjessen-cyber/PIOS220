@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/52fbbd7d2ff34b1e2d43d6feedbf17d5cbd6a4ce/blog/EVA%20MAGA.png",
      "https://i.ibb.co/d4X9qLXq/THE-PI220-TACTICAL-LINE.png",
      "https://i.ibb.co/qFYTRxG6/THE-SITUATION-ROOM.png",
@@ -57,7 +58,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/XrRBsykr/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/d4VrvxnX/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
      "https://i.ibb.co/PZfrs7x8/EVA-MAGAZINE-FULL-ARTICLE-IN-391-SERVERS.png",
-     "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/HD3cC5wt/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/4g3pNt6H/THE-PI220-TOP-SECRET-FILES.png",
      "https://i.ibb.co/mFG8NWsh/CRYSTAL-PALACE-OF-PALMA.png",
