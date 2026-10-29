@@ -30,7 +30,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/pBXqB6hm/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/dsR7zB7d/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/LdH1Ytjk/PROF-DSC-JESSE-JESSEN.png",
-     "https://i.ibb.co/DfVcPvtD/ONGOING.png",
      "https://i.ibb.co/FkGNsdNC/WORLD-WAR-III-LEGAL-EXECUTIONS-MARICONES-HIJOS-DE-PUTA.png",
      "https://i.ibb.co/Y45DWzNF/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
      "https://i.ibb.co/212vw9Kr/SF1-NEO-CORE-NODE-AFATX10-V2-PHOTONIC-REACTOR.png",
