@@ -22,6 +22,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/52fbbd7d2ff34b1e2d43d6feedbf17d5cbd6a4ce/blog/EVA%20MAGA.png",
      "https://i.ibb.co/d4X9qLXq/THE-PI220-TACTICAL-LINE.png",
+     "https://i.ibb.co/rKz0z8pP/PROF-DSC-JESSE-JESSEN.png",
      "https://i.ibb.co/qFYTRxG6/THE-SITUATION-ROOM.png",
      "https://i.ibb.co/QvV9w11N/Prof-Dsc-Jesse-Jessen.png",
      "https://i.ibb.co/kV9LkZTP/WORLD-WAR-III-THE-DESTRUCTION-OF-SPAIN.png",
