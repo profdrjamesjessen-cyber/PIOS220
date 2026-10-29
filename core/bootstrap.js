@@ -284,6 +284,7 @@ await loadPlugins();
   const musicButton = document.createElement("button");
 
   musicButton.type = "button";
+  musicButton.id = "pi220-music-button";
   musicButton.textContent = "▶ Start PI220 soundtrack";
   musicButton.setAttribute(
     "aria-label",
