@@ -265,7 +265,15 @@ await loadPlugins();
 
   logSystem("STATUS : EXCEPTIONAL");
 
-  logSystem("IMPORTED : https://jessejamesjessen.imgbb.com/")
+  logSystem("READY : https://static.reverbnation.com/jessejessen");
+
+  logSystem("READY : https://static.reverbnation.com/jesseJjessen");
+
+  logSystem("READY : https://static.reverbnation.com/jesseJAMESjessen");      
+  
+  logSystem("IMPORTED : https://jessejamesjessen.imgbb.com/");
+
+  logSystem("PROF DR SENTIENT : 391 NEO CORE NODE LIVE");
 
   
   // ======================================
