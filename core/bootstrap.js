@@ -266,6 +266,80 @@ await loadPlugins();
   logSystem("STATUS : EXCEPTIONAL");
 
   logSystem("IMPORTED : https://jessejamesjessen.imgbb.com/")
+
+  
+  // ======================================
+  // PI220 OFFICIAL BOOT SOUNDTRACK
+  // Starts after the existing boot sequence
+  // ======================================
+
+  const pi220Music = new Audio(
+    new URL("../blog/pi220-soundtrack.mp3", import.meta.url).href
+  );
+
+  pi220Music.preload = "auto";
+  pi220Music.loop = true;
+  pi220Music.volume = 0.35;
+
+  const musicButton = document.createElement("button");
+
+  musicButton.type = "button";
+  musicButton.textContent = "▶ Start PI220 soundtrack";
+  musicButton.setAttribute(
+    "aria-label",
+    "Play or pause the PI220 soundtrack"
+  );
+
+  Object.assign(musicButton.style, {
+    position: "fixed",
+    right: "20px",
+    bottom: "20px",
+    zIndex: "99999",
+    padding: "12px 18px",
+    background: "#06152b",
+    color: "#22a8ff",
+    border: "1px solid #22a8ff",
+    borderRadius: "10px",
+    fontFamily: "monospace",
+    fontSize: "14px",
+    cursor: "pointer"
+  });
+
+  document.body.appendChild(musicButton);
+
+  pi220Music.addEventListener("error", () => {
+    musicButton.textContent = "Soundtrack unavailable";
+    console.error(
+      "[PI220] Could not load soundtrack. Check the file path."
+    );
+  });
+
+  async function startPI220Music() {
+    try {
+      await pi220Music.play();
+      musicButton.textContent = "♫ Pause PI220 soundtrack";
+    } catch (error) {
+      musicButton.textContent = "▶ Start PI220 soundtrack";
+
+      console.info(
+        "[PI220] Autoplay blocked or audio unavailable.",
+        error
+      );
+    }
+  }
+
+  musicButton.addEventListener("click", async () => {
+    if (pi220Music.paused) {
+      await startPI220Music();
+    } else {
+      pi220Music.pause();
+      musicButton.textContent = "▶ Resume PI220 soundtrack";
+    }
+  });
+
+  // Attempt playback after the existing boot process completes.
+  await startPI220Music();
+
        
   
 });
