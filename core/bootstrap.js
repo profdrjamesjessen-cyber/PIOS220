@@ -292,19 +292,28 @@ await loadPlugins();
   );
 
   Object.assign(musicButton.style, {
-    position: "fixed",
-    right: "20px",
-    bottom: "20px",
-    zIndex: "99999",
-    padding: "12px 18px",
-    background: "#06152b",
-    color: "#22a8ff",
-    border: "1px solid #22a8ff",
-    borderRadius: "10px",
-    fontFamily: "monospace",
-    fontSize: "14px",
-    cursor: "pointer"
-  });
+  position: "fixed",
+  right: "16px",
+  bottom: "16px",
+  zIndex: "99999",
+
+  padding: "8px 11px",
+  background: "rgba(5, 15, 26, 0.92)",
+  color: "#00e5ff",
+  border: "1px solid rgba(0, 229, 255, 0.65)",
+  borderRadius: "5px",
+
+  fontFamily: "monospace",
+  fontSize: "11px",
+  letterSpacing: "0.5px",
+  lineHeight: "1.4",
+
+  cursor: "pointer",
+  boxShadow: "0 0 8px rgba(0, 229, 255, 0.12)",
+  backdropFilter: "blur(6px)",
+  transition: "all 0.2s ease"
+    
+});
 
   document.body.appendChild(musicButton);
 
