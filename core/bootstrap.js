@@ -294,7 +294,7 @@ await loadPlugins();
  Object.assign(musicButton.style, {
   position: "fixed",
   right: "16px",
-  bottom: "16px",
+  bottom: "10px",
   zIndex: "99999",
   padding: "7px 10px",
   background: "rgba(7, 10, 16, 0.94)",
