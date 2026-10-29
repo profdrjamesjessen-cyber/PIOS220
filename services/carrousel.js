@@ -34,7 +34,6 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/Y45DWzNF/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
      "https://i.ibb.co/212vw9Kr/SF1-NEO-CORE-NODE-AFATX10-V2-PHOTONIC-REACTOR.png",
      "https://i.ibb.co/hF8LDxjh/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
-     "https://i.ibb.co/mFSLLzVc/MALDITO-PARASITO-PUTO-PLASTICO-ADORNO-HOMBRE-MARICON-DE-MIERDA.jpg",
      "https://i.ibb.co/xq6DZb2D/MEMORANDUM.png",
      "https://i.ibb.co/Pp5BNm4/WORLD-WAR-III-TOTAL-WAR-AGAINST-SPAIN.png",
      "https://i.ibb.co/r2GV407g/THE-PI220.png",
