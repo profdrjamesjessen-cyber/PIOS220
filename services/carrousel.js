@@ -15,7 +15,7 @@ const PI220_CAROUSEL = {
 /* ===========================================
     INTRO
 ============================================= */
-     
+
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/6ee971da28d0dfa3db83ccb6be36d224b26a9d32/blog/LEGAL%20EXECUTIONS.png",
