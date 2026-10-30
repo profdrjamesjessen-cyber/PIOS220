@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://i.ibb.co/FqJQHnDD/UPDATE-STATUS.png",
      "https://i.ibb.co/XfzcpgX1/ONGOING.png",
      "https://i.ibb.co/4ZCmXrqH/UPDATE-PORTFOLIO-BTC-BANK-SAFE-UPDATE.png",
      "https://i.ibb.co/ZRr0LtJ7/PORTOFOLIO-UPDATE-IN-PROGRESS.png",
