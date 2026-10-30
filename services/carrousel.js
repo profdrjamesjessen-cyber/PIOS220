@@ -19,6 +19,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/19b164bf659a8e2961a1fcb82675f20577c3b24c/blog/PARALLEL%20INEWS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/PROF%20DSC%20JESSE%20JESSEN.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/CRISTAL%20PALACE%20FINAL%20REPORT.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/CRISTAL%20PALACE%20MALLORCA.png",
