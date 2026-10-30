@@ -19,6 +19,9 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/PROF%20DSC%20JESSE%20JESSEN.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/CRISTAL%20PALACE%20FINAL%20REPORT.png",
+     "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/CRISTAL%20PALACE%20MALLORCA.png",
      "https://i.ibb.co/FqJQHnDD/UPDATE-STATUS.png",
      "https://i.ibb.co/XfzcpgX1/ONGOING.png",
      "https://i.ibb.co/4ZCmXrqH/UPDATE-PORTFOLIO-BTC-BANK-SAFE-UPDATE.png",
