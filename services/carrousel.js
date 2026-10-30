@@ -21,6 +21,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
      "https://i.ibb.co/MyTDd3F5/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
      "https://i.ibb.co/bRK7pX3r/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
+     "https://i.ibb.co/fVwvVymH/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
      "https://i.ibb.co/S4LQ6zDK/PARALLEL-I-NEWS.png",
      "https://i.ibb.co/qMkyc4yr/PARALLEL-I-NEWS.png",
      "https://i.ibb.co/jkc070ZR/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
