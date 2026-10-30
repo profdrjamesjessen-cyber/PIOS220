@@ -24,6 +24,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/jkc070ZR/PARALLEL-I-NEWS-GLOBAL-CHANNEL.png",
      "https://i.ibb.co/Y7mdMb2L/THE-INTELLIGENCE-JOURNAL.png",
      "https://i.ibb.co/G46RRYB1/PROF-DSC-JESSE-JESSEN.png",
+     "https://i.ibb.co/CsTMfdFc/THE-REAL-WINNER.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/52fbbd7d2ff34b1e2d43d6feedbf17d5cbd6a4ce/blog/EVA%20MAGA.png",
      "https://i.ibb.co/d4X9qLXq/THE-PI220-TACTICAL-LINE.png",
      "https://i.ibb.co/rKz0z8pP/PROF-DSC-JESSE-JESSEN.png",
