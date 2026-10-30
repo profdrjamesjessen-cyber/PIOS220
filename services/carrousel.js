@@ -20,6 +20,8 @@ const PI220_CAROUSEL = {
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
      "https://i.ibb.co/4ZCmXrqH/UPDATE-PORTFOLIO-BTC-BANK-SAFE-UPDATE.png",
+     "https://i.ibb.co/ZRr0LtJ7/PORTOFOLIO-UPDATE-IN-PROGRESS.png",
+     "https://i.ibb.co/BVmnk4Lf/NEW-HERO-BANK.png",
      "https://i.ibb.co/MyTDd3F5/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
      "https://i.ibb.co/bRK7pX3r/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
      "https://i.ibb.co/fVwvVymH/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
