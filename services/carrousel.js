@@ -23,6 +23,8 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/n8kV24L1/PI220-NOVA-THE-HERO-BANK-OF-2226.png",
      "https://i.ibb.co/PZCbL1wq/PI220-NOVA-THE-HERO-BANK-OF-2226.png",
      "https://i.ibb.co/k2D8HhLK/PI220-NOVA-THE-HERO-BANK-OF-2226.png",
+     "https://i.ibb.co/Txrqd9VK/EVIDENCE-001-NOVA-MASTER-HERO-BANK-PROGRAM.png",
+     "https://i.ibb.co/8D90d0XQ/EVIDENCE-002-NOVA-MASTER-HERO-BANK-PROGRAM.png",
      "https://i.ibb.co/FkbgfDMJ/PARALLEL-FILMS-PRODUCTION-ONLY-IN-391-SERVERS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/19b164bf659a8e2961a1fcb82675f20577c3b24c/blog/PARALLEL%20INEWS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/PROF%20DSC%20JESSE%20JESSEN.png",
