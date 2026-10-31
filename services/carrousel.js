@@ -24,6 +24,7 @@ const PI220_CAROUSEL = {
      "https://i.ibb.co/PZCbL1wq/PI220-NOVA-THE-HERO-BANK-OF-2226.png",
      "https://i.ibb.co/k2D8HhLK/PI220-NOVA-THE-HERO-BANK-OF-2226.png",
      "https://i.ibb.co/Zp2k4jQ2/WORLD-WAR-III-SPECIAL-OPERATIONS-LEGAL-EXECUTIONS.png",
+     "https://i.ibb.co/FkbgfDMJ/PARALLEL-FILMS-PRODUCTION-ONLY-IN-391-SERVERS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/6ee971da28d0dfa3db83ccb6be36d224b26a9d32/blog/LEGAL%20EXECUTIONS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/19b164bf659a8e2961a1fcb82675f20577c3b24c/blog/PARALLEL%20INEWS.png",
      "https://raw.githubusercontent.com/profdrjamesjessen-cyber/PIOS220/49ec902427f3d1df1b35eae47b83836fd1e2c2c8/blog/PROF%20DSC%20JESSE%20JESSEN.png",
