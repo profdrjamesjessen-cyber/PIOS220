@@ -20,6 +20,7 @@ const PI220_CAROUSEL = {
 
 
      "https://i.ibb.co/vxgJ4zGF/Parallel-Industries-220.png",
+     "https://i.ibb.co/xSCCcYBF/EVA-MAGAZINE-SPECIAL-EDITION-FULL-IN-391-SERVERS.png",
      "https://i.ibb.co/VWKy1dcz/EVA-MAGAZINE-THE-INTERVIEW-TO-EVA.png",
      "https://i.ibb.co/vxQp6Dsx/PARALLEL-INDUSTRIES-220.png",
      "https://i.ibb.co/rRhKCCFS/PARALLEL-I-NEWS.png",
